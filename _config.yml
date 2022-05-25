@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "3.Your Sidebar Name"
+  name             : "Jiawei Shao"
   avatar           : "profile.png"
-  bio              : "4.Your biography for the left-hand sidebar"
-  location         : "Location1"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shaojiawei07"
+  github           : "shaojiawei07"
   google_plus      :
   keybase          :
   instagram        :
