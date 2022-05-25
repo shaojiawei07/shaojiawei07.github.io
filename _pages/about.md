@@ -12,7 +12,7 @@ redirect_from:
 
 - I am a Ph.D. candidate in the [Electronic and Computer Engineering (ECE) Department](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
 
-- My research interests lie in the areas of deep learning and communication, including edge AI, task-oriented communication, communication-efficient federated learning, and privacy-preserving collaborative learning.
+- My research interests lie in the areas of deep learning and communication, including edge inference, task-oriented communication, communication-efficient federated learning, and privacy-preserving collaborative learning.
 
 <!-- particularly in
 
@@ -29,6 +29,11 @@ I ...
 ======
 - [Apr., 2022] One paper on coded computing and federated learning are accepted to ISIT 2022:  -->
 
+
+Submitted, Preprint
+======
+- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," submitted. [[Paper]](https://arxiv.org/abs/2109.00172)
+- Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," sumbitted.
 
 
 Publications
