@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,17 +10,31 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-I am a
+- I am a Ph.D. candidate in the [Electronic and Computer Engineering (ECE) Department](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
 
-Short Bio
+- My research interests lie in the areas of deep learning and communication, including edge AI, task-oriented communication, communication-efficient federated learning, and privacy-preserving collaborative learning.
+
+<!-- particularly in
+
+including edge AI, task-oriented communication,
+ -->
+<!-- general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis, non-convex optimization and applications in the future wireless network.
+ -->
+<!-- Short Bio
 ======
 I ...
+ -->
+
+<!-- News
+======
+- [Apr., 2022] One paper on coded computing and federated learning are accepted to ISIT 2022:  -->
 
 
-Selected publications
+
+Publications
 ======
 
-JSAC
+
 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
