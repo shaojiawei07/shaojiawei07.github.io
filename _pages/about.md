@@ -12,7 +12,7 @@ redirect_from:
 
 - I am a Ph.D. candidate in the [Electronic and Computer Engineering (ECE) Department](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
 
-- My research interests lie in the areas of deep learning and communication, including edge inference, task-oriented communication, communication-efficient federated learning, and privacy-preserving collaborative learning.
+- My research interests lie in the areas of deep learning and communication, including edge inference, task-oriented communication, and federated edge learning (with a focus on communication efficiency and privacy). I closely work with [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust) and [Prof. Songze Li](https://songzli.github.io/).
 
 <!-- particularly in
 
@@ -32,15 +32,27 @@ I ...
 
 Submitted, Preprint
 ======
+- Three papers were submitted to NeurIPS 2022.
 - **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," submitted. [[Paper]](https://arxiv.org/abs/2109.00172)
-- Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," sumbitted.
+- Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," sumbitted. [[Paper]](https://openreview.net/forum?id=8rpv8g3zfF)
+- Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning with data and device heterogeneity," submitted. [[Paper]](https://arxiv.org/abs/2112.10313v1)
 
 
-Publications
+Accepted, Publication
 ======
 
+- Edge inference, task-oriented communication:
+	- J. Shao, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://arxiv.org/abs/2102.04170)
+	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://arxiv.org/abs/2006.02166)
+	- X. Zhang, **J. Shao**, Y. Mao, and J. Zhang, "Communication-computation efficient device-edge co-inference via AutoML," *IEEE Globecom*, Madrid, Spain, Dec. 2021. [[Paper]](https://arxiv.org/abs/2108.13009)
+	- **J. Shao**, H. Zhang, Y. Mao, and J. Zhang, "Branchy-GNN: a device-edge co-inference framework for efficient point cloud processing," in *Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)*, Toronto, Ontario, Canada, Jun. 2021. [[Paper]](https://arxiv.org/abs/2011.02422)
+	- **J. Shao**, J. Zhang, "BottleNet++: An end-to-end approach for feature compression in device-edge co-inference systems," in *Proc. IEEE Int. Conf. Commun. (ICC) Workshop on Edge Machine Learning for 5G Mobile Networks and Beyond*, Dublin, Ireland, Jun. 2020. [[Paper]](https://arxiv.org/abs/1910.14315)
 
-
+- Federated edge learning:
+	- Y. Sun\*, **J. Shao**\*, S. Li, Y. Mao, and J. Zhang, "Stochastic coded federated learning with convergence and privacy guarantees," *IEEE Int. Symp. Information Theory (ISIT)*, Espoo, Finland, June-July 2022. [Paper](https://arxiv.org/abs/2201.10092) (\* equal contribution)
+	- Y. Sun, J. Shao, Y. Mao, and J. Zhang, "Asynchronous semi-decentralized federated edge learning for heterogenous clients," *IEEE Int. Conf. Commun. (ICC)*, Seoul, South Korea, May 2022. [[Paper]](https://arxiv.org/abs/2112.04737)
+	- Y. Sun, J. Shao, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning for fast convergence on non-IID data," *IEEE Wireless Commun. Networking Conf. (WCNC)*, Austin, TX, USA, Apr. 2022. [[Paper]](https://arxiv.org/abs/2104.12678)
+ 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
