@@ -24,4 +24,4 @@ main:
   # ----- I would like to define some titles in the following
 
     - title: "Services"
-      Url: /service/
+      url: /service/
