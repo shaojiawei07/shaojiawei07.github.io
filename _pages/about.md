@@ -31,7 +31,7 @@ I ...
 
 News
 ======
-- [May. 19, 2022] Three papers were submitted to NeurIPS 2022.
+- [May 19, 2022] Three papers were submitted to NeurIPS 2022.
 - [Apr. 23, 2022] Our paper "Stochastic Coded Federated Learning With Convergence and Privacy Guarantees" is accepted to 2022 IEEE International Symposium on Information Theory (ISIT). [[Paper]](https://arxiv.org/abs/2201.10092)
 
 
