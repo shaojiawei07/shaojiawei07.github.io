@@ -29,10 +29,14 @@ I ...
 ======
 - [Apr., 2022] One paper on coded computing and federated learning are accepted to ISIT 2022:  -->
 
+News
+======
+- [May. 19, 2022] Three papers were submitted to NeurIPS 2022.
+- [Apr. 23, 2022] Our paper "Stochastic Coded Federated Learning With Convergence and Privacy Guarantees" is accepted to 2022 IEEE International Symposium on Information Theory (ISIT). [[Paper]](https://arxiv.org/abs/2201.10092)
+
 
 Submitted, Preprint
 ======
-- Three papers were submitted to NeurIPS 2022.
 - **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," submitted. [[Paper]](https://arxiv.org/abs/2109.00172)
 - Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," sumbitted. [[Paper]](https://openreview.net/forum?id=8rpv8g3zfF)
 - Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning with data and device heterogeneity," submitted. [[Paper]](https://arxiv.org/abs/2112.10313v1)
