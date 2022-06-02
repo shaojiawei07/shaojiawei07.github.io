@@ -15,8 +15,13 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
+  #- title: "CV"
   #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
+
+  # ----- I would like to define some titles in the following
+
+    - title: "Services"
+      Url: /service/
