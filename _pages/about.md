@@ -31,7 +31,7 @@ I ...
 
 News
 ======
-- **[Jun. 10, 2022]** Our paper "Federated Learning with GAN-based Data Synthesis for Non-IID Clients" was accepted to International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022 (FL-IJCAI'22).
+- **[Jun. 10, 2022]** Our paper "Federated Learning with GAN-based Data Synthesis for Non-IID Clients" was accepted to International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022 (FL-IJCAI'22). [[Paper]](https://arxiv.org/abs/2206.05507)
 - **[May 19, 2022]** Three papers were submitted to NeurIPS 2022.
 - **[Apr. 23, 2022]** Our paper "Stochastic Coded Federated Learning With Convergence and Privacy Guarantees" was accepted to 2022 IEEE International Symposium on Information Theory (ISIT). [[Paper]](https://arxiv.org/abs/2201.10092)
 
@@ -54,7 +54,7 @@ Accepted, Publication
 	- **J. Shao**, J. Zhang, "BottleNet++: An end-to-end approach for feature compression in device-edge co-inference systems," in *Proc. IEEE Int. Conf. Commun. (ICC) Workshop on Edge Machine Learning for 5G Mobile Networks and Beyond*, Dublin, Ireland, Jun. 2020. [[Paper]](https://arxiv.org/abs/1910.14315)
 
 - Federated edge learning:
-	- Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," *Int. Workshop Trustworthy Federated Learn. Conjunction IJCAI 2022 (FL-IJCAI'22)*, Vienna, Austria, Jul. 2022.
+	- Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," *Int. Workshop Trustworthy Federated Learn. Conjunction IJCAI 2022 (FL-IJCAI'22)*, Vienna, Austria, Jul. 2022. [[Paper]](https://arxiv.org/abs/2206.05507)
 	- Y. Sun\*, **J. Shao**\*, S. Li, Y. Mao, and J. Zhang, "Stochastic coded federated learning with convergence and privacy guarantees," *IEEE Int. Symp. Information Theory (ISIT)*, Espoo, Finland, June-July 2022. [[Paper]](https://arxiv.org/abs/2201.10092) (\*equal contribution)
 	- Y. Sun, **J. Shao**, Y. Mao, and J. Zhang, "Asynchronous semi-decentralized federated edge learning for heterogenous clients," *IEEE Int. Conf. Commun. (ICC)*, Seoul, South Korea, May 2022. [[Paper]](https://arxiv.org/abs/2112.04737)
 	- Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning for fast convergence on non-IID data," *IEEE Wireless Commun. Networking Conf. (WCNC)*, Austin, TX, USA, Apr. 2022. [[Paper]](https://arxiv.org/abs/2104.12678)[[Slides]](https://hiyuchang.github.io/assets/slides/SD-FEEL_2022WCNC.pdf)
