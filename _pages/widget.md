@@ -1,6 +1,7 @@
 ---
-title: "Widget"
+title: ""
 permalink: /widget.html
+author_profile: false
 ---
 
 
