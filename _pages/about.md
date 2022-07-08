@@ -31,13 +31,14 @@ I ...
 
 News
 ======
+- **[Jul. 8, 2022]** Our paper "Task-oriented communication for multi-device cooperative edge inference" was accepted to IEEE Transaction on Wireless Communication. [[Paper]](https://arxiv.org/abs/2109.00172).
 - **[Jun. 10, 2022]** Our paper "Federated Learning with GAN-based Data Synthesis for Non-IID Clients" was accepted to International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022 (FL-IJCAI'22). [[Paper]](https://arxiv.org/abs/2206.05507)
 - **[Apr. 23, 2022]** Our paper "Stochastic Coded Federated Learning With Convergence and Privacy Guarantees" was accepted to 2022 IEEE International Symposium on Information Theory (ISIT). [[Paper]](https://arxiv.org/abs/2201.10092)
 
 
 Submitted, Preprint
 ======
-- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," submitted. [[Paper]](https://arxiv.org/abs/2109.00172).
+
 <!--- Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," sumbitted. [[Paper]](https://openreview.net/forum?id=8rpv8g3zfF)-->
 - Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning with data and device heterogeneity," submitted. [[Paper]](https://arxiv.org/abs/2112.10313v1)
 
@@ -46,6 +47,7 @@ Accepted, Publication
 ======
 
 - Edge inference, task-oriented communication:
+	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://arxiv.org/abs/2109.00172).
 	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://arxiv.org/abs/2102.04170)
 	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://arxiv.org/abs/2006.02166)
 	- X. Zhang, **J. Shao**, Y. Mao, and J. Zhang, "Communication-computation efficient device-edge co-inference via AutoML," *IEEE Globecom*, Madrid, Spain, Dec. 2021. [[Paper]](https://arxiv.org/abs/2108.13009)
