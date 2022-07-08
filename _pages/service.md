@@ -1,7 +1,7 @@
 ---
 permalink: /service/
 title: "Academic services"
-author_profile: true
+author_profile: false
 ---
 
 ## Journal reviewer
