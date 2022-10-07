@@ -31,8 +31,8 @@ I ...
 
 News
 ======
-- **[Sep. 15, 2022]** Our paper "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing" was accepted to NeurIPS 2022.
-- **[Jul. 8, 2022]** Our paper "Task-oriented communication for multi-device cooperative edge inference" was accepted to IEEE Transaction on Wireless Communication. [[Paper]](https://arxiv.org/abs/2109.00172).
+- **[Sep. 15, 2022]** Our paper "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing" was accepted to NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2210.02680.pdf)
+- **[Jul. 8, 2022]** Our paper "Task-oriented communication for multi-device cooperative edge inference" was accepted to IEEE Transaction on Wireless Communication. [[Paper]](https://arxiv.org/abs/2109.00172)
 - **[Jun. 10, 2022]** Our paper "Federated Learning with GAN-based Data Synthesis for Non-IID Clients" was accepted to International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022 (FL-IJCAI'22). [[Paper]](https://arxiv.org/abs/2206.05507)
 - **[Apr. 23, 2022]** Our paper "Stochastic Coded Federated Learning With Convergence and Privacy Guarantees" was accepted to 2022 IEEE International Symposium on Information Theory (ISIT). [[Paper]](https://arxiv.org/abs/2201.10092)
 
