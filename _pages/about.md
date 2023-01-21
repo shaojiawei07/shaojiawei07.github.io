@@ -31,12 +31,13 @@ I ...
 
 News
 ======
+- **[Jan. 21, 2023]** Our paper "Low-complexity Deep Video Compression with a Distributed Coding Architecture" was accepted to ICLR 2023. [[Paper]](https://openreview.net/forum?id=QiORiW-NNqr)
 - **[Jan. 4, 2023]** Our paper "AC2C: Adaptively Controlled Two-Hop Communication for Multi-Agent Reinforcement Learning" was accepted to AAMAS 2023.
 - **[Sep. 15, 2022]** Our paper "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing" was accepted to NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2210.02680.pdf)
 - **[Jul. 8, 2022]** Our paper "Task-oriented communication for multi-device cooperative edge inference" was accepted to IEEE Transaction on Wireless Communication. [[Paper]](https://arxiv.org/abs/2109.00172)
 
 
-Submitted, Preprint
+Preprints
 ======
 
 - **J. Shao**, X. Zhang, J. Zhang, "Task-Oriented Communication for Edge Video Anlaytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)
@@ -44,23 +45,30 @@ Submitted, Preprint
 - Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning with data and device heterogeneity," submitted. [[Paper]](https://arxiv.org/abs/2112.10313v1)
 
 
-Accepted, Publication [(Google Scholar Profile)](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en)
+Selected publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en)
 ======
 
 - Edge inference, task-oriented communication:
 	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://arxiv.org/abs/2109.00172).
 	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://arxiv.org/abs/2102.04170)
 	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://arxiv.org/abs/2006.02166)
-	- X. Zhang, **J. Shao**, Y. Mao, and J. Zhang, "Communication-computation efficient device-edge co-inference via AutoML," *IEEE Globecom*, Madrid, Spain, Dec. 2021. [[Paper]](https://arxiv.org/abs/2108.13009)
-	- **J. Shao**, H. Zhang, Y. Mao, and J. Zhang, "Branchy-GNN: a device-edge co-inference framework for efficient point cloud processing," in *Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)*, Toronto, Ontario, Canada, Jun. 2021. [[Paper]](https://arxiv.org/abs/2011.02422)
-	- **J. Shao**, J. Zhang, "BottleNet++: An end-to-end approach for feature compression in device-edge co-inference systems," in *Proc. IEEE Int. Conf. Commun. (ICC) Workshop on Edge Machine Learning for 5G Mobile Networks and Beyond*, Dublin, Ireland, Jun. 2020. [[Paper]](https://arxiv.org/abs/1910.14315)
+
+<!-- 
+**J. Shao**, J. Zhang, "BottleNet++: An end-to-end approach for feature compression in device-edge co-inference systems," in *Proc. IEEE Int. Conf. Commun. (ICC) Workshop on Edge Machine Learning for 5G Mobile Networks and Beyond*, Dublin, Ireland, Jun. 2020. [[Paper]](https://arxiv.org/abs/1910.14315)
+X. Zhang, **J. Shao**, Y. Mao, and J. Zhang, "Communication-computation efficient device-edge co-inference via AutoML," *IEEE Globecom*, Madrid, Spain, Dec. 2021. [[Paper]](https://arxiv.org/abs/2108.13009)
+**J. Shao**, H. Zhang, Y. Mao, and J. Zhang, "Branchy-GNN: a device-edge co-inference framework for efficient point cloud processing," in *Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)*, Toronto, Ontario, Canada, Jun. 2021. [[Paper]](https://arxiv.org/abs/2011.02422)
+ -->
 
 - Federated edge learning:
 	- **J. Shao**, Y. Sun, S. Li, and J. Zhang, "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing," *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)*, New Orleans, LA, USA, Nov. 2022. [[Paper]](https://arxiv.org/pdf/2210.02680.pdf)
-	- Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," *Int. Workshop Trustworthy Federated Learn. Conjunction IJCAI 2022 (FL-IJCAI'22)*, Vienna, Austria, Jul. 2022. [[Paper]](https://arxiv.org/abs/2206.05507)
 	- Y. Sun\*, **J. Shao**\*, S. Li, Y. Mao, and J. Zhang, "Stochastic coded federated learning with convergence and privacy guarantees," *IEEE Int. Symp. Information Theory (ISIT)*, Espoo, Finland, June-July 2022. [[Paper]](https://arxiv.org/abs/2201.10092) (\*equal contribution with [Yuchang Sun](https://hiyuchang.github.io/))
-	- Y. Sun, **J. Shao**, Y. Mao, and J. Zhang, "Asynchronous semi-decentralized federated edge learning for heterogenous clients," *IEEE Int. Conf. Commun. (ICC)*, Seoul, South Korea, May 2022. [[Paper]](https://arxiv.org/abs/2112.04737)
-	- Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning for fast convergence on non-IID data," *IEEE Wireless Commun. Networking Conf. (WCNC)*, Austin, TX, USA, Apr. 2022. [[Paper]](https://arxiv.org/abs/2104.12678)[[Slides]](https://hiyuchang.github.io/assets/slides/SD-FEEL_2022WCNC.pdf)
+
+
+<!-- 
+Y. Sun, **J. Shao**, Y. Mao, and J. Zhang, "Asynchronous semi-decentralized federated edge learning for heterogenous clients," *IEEE Int. Conf. Commun. (ICC)*, Seoul, South Korea, May 2022. [[Paper]](https://arxiv.org/abs/2112.04737)
+Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning for fast convergence on non-IID data," *IEEE Wireless Commun. Networking Conf. (WCNC)*, Austin, TX, USA, Apr. 2022. [[Paper]](https://arxiv.org/abs/2104.12678)[[Slides]](https://hiyuchang.github.io/assets/slides/SD-FEEL_2022WCNC.pdf)
+Z. Li, **J. Shao**, J. Wang, Y. Mao, and J. Zhang, "Federated Learning with GAN-based Data Synthesis for Non-IID Clients," *Int. Workshop Trustworthy Federated Learn. Conjunction IJCAI 2022 (FL-IJCAI'22)*, Vienna, Austria, Jul. 2022. [[Paper]](https://arxiv.org/abs/2206.05507)
+ -->
  
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
