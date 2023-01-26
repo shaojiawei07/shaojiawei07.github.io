@@ -31,7 +31,7 @@ I ...
 
 News
 ======
-- **[Jan. 21, 2023]** Our paper "LDMIC: Learning-based distributed multi-view image coding" was accepted to ICLR 2023.[[Paper]](https://openreview.net/forum?id=ILQVw4cA5F9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))
+- **[Jan. 21, 2023]** Our paper "LDMIC: Learning-based distributed multi-view image coding" was accepted to ICLR 2023. [[Paper]](https://openreview.net/forum?id=ILQVw4cA5F9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))
 - **[Jan. 4, 2023]** Our paper "AC2C: Adaptively Controlled Two-Hop Communication for Multi-Agent Reinforcement Learning" was accepted to AAMAS 2023.
 - **[Sep. 15, 2022]** Our paper "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing" was accepted to NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2210.02680.pdf)
 - **[Jul. 8, 2022]** Our paper "Task-oriented communication for multi-device cooperative edge inference" was accepted to IEEE Transaction on Wireless Communication. [[Paper]](https://arxiv.org/abs/2109.00172)
