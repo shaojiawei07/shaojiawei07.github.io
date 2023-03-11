@@ -42,7 +42,7 @@ Preprints
 
 - **J. Shao**, X. Zhang, J. Zhang, "Task-Oriented Communication for Edge Video Anlaytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)
 - Y. Sun, **J. Shao**, Y. Mao, S. Li, and J. Zhang, "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design," submitted. [[Paper]](https://arxiv.org/abs/2211.04132)
-- Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, "Semi-decentralized federated edge learning with data and device heterogeneity," submitted. [[Paper]](https://arxiv.org/abs/2112.10313v1)
+
 
 
 Selected publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en)
