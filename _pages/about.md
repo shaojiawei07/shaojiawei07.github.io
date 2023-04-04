@@ -44,7 +44,6 @@ Preprints
 ======
 
 - **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher", submitted.
-
 - **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Anlaytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)
 - Y. Sun, **J. Shao**, Y. Mao, S. Li, and J. Zhang, "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design," submitted. [[Paper]](https://arxiv.org/abs/2211.04132)
 
