@@ -13,7 +13,6 @@ redirect_from:
 - I am a Ph.D. candidate in [Dept. of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
 
 - My research interests lie in the areas of deep learning and communication, including edge inference, task-oriented communication, and federated edge learning (with a focus on communication efficiency and privacy). 
-
 	- I closely work with [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust) and [Prof. Songze Li](https://songzli.github.io/).
 	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023.
 
