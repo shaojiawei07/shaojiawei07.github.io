@@ -52,7 +52,7 @@ Selected publications [(Google Scholar Profile)](https://scholar.google.com/cita
 ======
 
 - Edge inference, task-oriented communication:
-	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://arxiv.org/abs/2109.00172)[[Code]](https://github.com/shaojiawei07/VDDIB-SR).
+	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://arxiv.org/abs/2109.00172)[[Code]](https://github.com/shaojiawei07/VDDIB-SR)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://arxiv.org/abs/2102.04170)[[Code]](https://github.com/shaojiawei07/VL-VFE)
 	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://arxiv.org/abs/2006.02166)[[Code]](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)
 
