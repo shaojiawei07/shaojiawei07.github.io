@@ -42,7 +42,7 @@ News
 Preprints
 ======
 
-- **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher", submitted. [[Paper]](https://arxiv.org/abs/2304.01731)
+- **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher", submitted. [[Paper]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
 - **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Anlaytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)
 - Y. Sun, **J. Shao**, Y. Mao, S. Li, and J. Zhang, "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design," submitted. [[Paper]](https://arxiv.org/abs/2211.04132)
 
@@ -52,9 +52,9 @@ Selected publications [(Google Scholar Profile)](https://scholar.google.com/cita
 ======
 
 - Edge inference, task-oriented communication:
-	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://arxiv.org/abs/2109.00172).
-	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://arxiv.org/abs/2102.04170)
-	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://arxiv.org/abs/2006.02166)
+	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://arxiv.org/abs/2109.00172)[[Code]](https://github.com/shaojiawei07/VDDIB-SR).
+	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://arxiv.org/abs/2102.04170)[[Code]](https://github.com/shaojiawei07/VL-VFE)
+	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://arxiv.org/abs/2006.02166)[[Code]](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)
 
 <!-- 
 **J. Shao**, J. Zhang, "BottleNet++: An end-to-end approach for feature compression in device-edge co-inference systems," in *Proc. IEEE Int. Conf. Commun. (ICC) Workshop on Edge Machine Learning for 5G Mobile Networks and Beyond*, Dublin, Ireland, Jun. 2020. [[Paper]](https://arxiv.org/abs/1910.14315)
