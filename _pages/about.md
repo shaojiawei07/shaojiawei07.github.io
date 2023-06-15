@@ -34,8 +34,8 @@ I ...
 # News
 
 
-- **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://arxiv.org/abs/2303.11599)
-- **[Jan. 2023]** Our paper "LDMIC: Learning-based distributed multi-view image coding" was accepted to ICLR 2023. [[Paper]](https://openreview.net/forum?id=ILQVw4cA5F9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))
+- **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://arxiv.org/abs/2303.11599)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
+- **[Jan. 2023]** Our paper "LDMIC: Learning-based distributed multi-view image coding" was accepted to ICLR 2023. [[Paper]](https://openreview.net/forum?id=ILQVw4cA5F9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/Xinjie-Q/LDMIC)
 - **[Jan. 2023]** Our paper "AC2C: Adaptively Controlled Two-Hop Communication for Multi-Agent Reinforcement Learning" was accepted to AAMAS 2023. [[Paper]](https://arxiv.org/abs/2302.12515)
 - **[Sep. 2022]** Our paper "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing" was accepted to NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2210.02680.pdf)
 - **[Jul. 2022]** Our paper "Task-oriented communication for multi-device cooperative edge inference" was accepted to IEEE Transaction on Wireless Communication. [[Paper]](https://arxiv.org/abs/2109.00172)
@@ -45,7 +45,7 @@ I ...
 
 
 - **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher", submitted. [[Paper]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
-- **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Anlaytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)
+- **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Anlaytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 - Y. Sun, **J. Shao**, Y. Mao, S. Li, and J. Zhang, "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design," submitted. [[Paper]](https://arxiv.org/abs/2211.04132)
 
 
