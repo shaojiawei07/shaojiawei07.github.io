@@ -33,6 +33,7 @@ I ...
 
 # News
 
+- **[Jul. 2023]** Manuscript "Large language models empowered autonomous edge AI for connected intelligence" was submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
 - **[Jun. 2023]** I received the HKUST RedBird Academic Excellence Award in the 2022-23 Academic Year.
 - **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://arxiv.org/abs/2303.11599)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
 - **[Jan. 2023]** Our paper "LDMIC: Learning-based distributed multi-view image coding" was accepted to ICLR 2023. [[Paper]](https://openreview.net/forum?id=ILQVw4cA5F9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/Xinjie-Q/LDMIC)
@@ -43,6 +44,7 @@ I ...
 
 # Preprints
 
+- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence,” submitted," submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
 
 - **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher", submitted. [[Paper]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
 - **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Anlaytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
