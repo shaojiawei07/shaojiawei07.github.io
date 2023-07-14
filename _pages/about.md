@@ -44,7 +44,7 @@ I ...
 
 # Preprints
 
-- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence,” submitted," submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
+- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
 
 - **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher", submitted. [[Paper]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
 - **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Anlaytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
