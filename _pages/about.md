@@ -33,6 +33,8 @@ I ...
 
 # News
 
+- **[Jul. 2023]** Manuscript "A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency" was submitted. [[Paper]](https://arxiv.org/abs/2307.10655)
+
 - **[Jul. 2023]** Manuscript "Large language models empowered autonomous edge AI for connected intelligence" was submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
 - **[Jun. 2023]** I received the HKUST RedBird Academic Excellence Award in the 2022-23 Academic Year.
 - **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://arxiv.org/abs/2303.11599)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
@@ -43,6 +45,8 @@ I ...
 
 
 # Preprints
+
+- **J. Shao***, Z. Li*, W. Sun*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency," submitted. [[Paper]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
 
 - Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
 
