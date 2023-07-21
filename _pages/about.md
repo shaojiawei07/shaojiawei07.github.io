@@ -46,7 +46,7 @@ I ...
 
 # Preprints
 
-- **J. Shao***, Z. Li*, W. Sun*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency," submitted. [[Paper]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
+- **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency," submitted. [[Paper]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
 
 - Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
 
