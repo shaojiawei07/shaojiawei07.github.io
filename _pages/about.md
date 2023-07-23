@@ -33,7 +33,7 @@ I ...
 
 # News
 
-- **[Jul. 2023]** Manuscript "A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency" was submitted. [[Paper]](https://arxiv.org/abs/2307.10655)
+- **[Jul. 2023]** Manuscript "A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency" was submitted. [[Paper]](https://arxiv.org/abs/2307.10655)
 
 - **[Jul. 2023]** Manuscript "Large language models empowered autonomous edge AI for connected intelligence" was submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
 - **[Jun. 2023]** I received the HKUST RedBird Academic Excellence Award in the 2022-23 Academic Year.
