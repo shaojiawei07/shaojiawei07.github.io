@@ -25,3 +25,5 @@ main:
 
     - title: "Services"
       url: /service/
+    - title: "Teaching"
+      url: /teaching/
