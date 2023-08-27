@@ -9,6 +9,7 @@ author_profile: false
 * IEEE Journal on Selected Areas in Communications
 * IEEE Transactions on Wireless Communications
 * IEEE Transactions on Communications
+* IEEE Transactions on Mobile Computing
 * IEEE Wireless Communications Letters
 * IEEE Communications Letters
 * IEEE Transactions on Cognitive Communications and Networking
