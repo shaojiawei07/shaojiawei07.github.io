@@ -33,6 +33,7 @@ I ...
 
 # News
 
+- **[Sep. 2023]** Our paper "Task-Oriented Communication for Edge Video Analytics" was accepted to IEEE Transactions on Wireless Communications. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 - **[Aug. 2023]** Manuscript "FedCiR: Client-invariant representation learning for federated non-IID features" was submitted. [[Paper]](https://arxiv.org/abs/2308.15786)
 - **[Aug. 2023]** Manuscript "Feature Matching Data Synthesis for Non-IID Federated Learning" was submitted. [[Paper]](https://arxiv.org/abs/2308.04761)
 - **[Jul. 2023]** Manuscript "A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency" was submitted. [[Paper]](https://arxiv.org/abs/2307.10655)
@@ -41,16 +42,16 @@ I ...
 - **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://arxiv.org/abs/2303.11599)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
 - **[Jan. 2023]** Our paper "LDMIC: Learning-based distributed multi-view image coding" was accepted to ICLR 2023. [[Paper]](https://openreview.net/forum?id=ILQVw4cA5F9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/Xinjie-Q/LDMIC)
 - **[Jan. 2023]** Our paper "AC2C: Adaptively Controlled Two-Hop Communication for Multi-Agent Reinforcement Learning" was accepted to AAMAS 2023. [[Paper]](https://arxiv.org/abs/2302.12515)
+<!-- 
 - **[Sep. 2022]** Our paper "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing" was accepted to NeurIPS 2022. [[Paper]](https://arxiv.org/pdf/2210.02680.pdf)
 - **[Jul. 2022]** Our paper "Task-oriented communication for multi-device cooperative edge inference" was accepted to IEEE Transactions on Wireless Communications. [[Paper]](https://arxiv.org/abs/2109.00172)
-
+ -->
 
 # Preprints
 
 - **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency," submitted. [[Paper]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
 - Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
 - **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher", submitted. [[Paper]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
-- **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Analytics," submitted. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 - Y. Sun, **J. Shao**, Y. Mao, S. Li, and J. Zhang, "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design," submitted. [[Paper]](https://arxiv.org/abs/2211.04132)
 
 
@@ -59,6 +60,7 @@ I ...
 
 
 - Edge inference, task-oriented communication:
+	- **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Analytics," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://arxiv.org/abs/2109.00172)[[Code]](https://github.com/shaojiawei07/VDDIB-SR)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://arxiv.org/abs/2102.04170)[[Code]](https://github.com/shaojiawei07/VL-VFE)
 	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://arxiv.org/abs/2006.02166)[[Code]](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)
