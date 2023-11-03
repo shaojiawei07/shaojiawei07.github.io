@@ -33,6 +33,7 @@ I ...
 
 # News
 
+- **[Nov. 2023]** I received the HKTIIT Postgraduate Excellence Scholarships in the 2022-23 Academic Year.
 - **[Sep. 2023]** I presented a poster "EdgeGPT: GPT-Empowered Autonomous Edge Inference" on the IEEE Hong Kong 6G Wireless Summit. [[Poster]](https://github.com/shaojiawei07/shaojiawei07.github.io/tree/main/images/Jiawei_Poster_EdgeGPT.pdf)
 - **[Sep. 2023]** Our paper "Task-Oriented Communication for Edge Video Analytics" was accepted to IEEE Transactions on Wireless Communications. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 - **[Aug. 2023]** Manuscript "FedCiR: Client-invariant representation learning for federated non-IID features" was submitted. [[Paper]](https://arxiv.org/abs/2308.15786)
