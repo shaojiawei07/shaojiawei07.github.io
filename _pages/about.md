@@ -33,26 +33,24 @@ I ...
 
 # News
 
+- **[Nov. 2023]** Our paper "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher" was accepted to Nature Communications. [[Preprint]](https://arxiv.org/abs/2304.01731)
+
+- **[Nov. 2023]** Our paper "Defending ChatGPT against Jailbreak Attack via Self-Reminder" was accepted to Nature Machine Intelligence. [[Preprint]](https://assets.researchsquare.com/files/rs-2873090/v1_covered_3dc9af48-92ba-491e-924d-b13ba9b7216f.pdf?c=1686882819)
+
+- **[Nov. 2023]** Our paper "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design" was accepted to IEEE Transactions on Wireless Communications. [[Preprint]](https://arxiv.org/abs/2211.04132)
+
 - **[Nov. 2023]** I received the HKTIIT Postgraduate Excellence Scholarships in the 2022-23 Academic Year.
 - **[Sep. 2023]** I presented a poster "EdgeGPT: GPT-Empowered Autonomous Edge Inference" on the IEEE Hong Kong 6G Wireless Summit. [[Poster]](https://github.com/shaojiawei07/shaojiawei07.github.io/tree/main/images/Jiawei_Poster_EdgeGPT.pdf)
-- **[Sep. 2023]** Our paper "Task-Oriented Communication for Edge Video Analytics" was accepted to IEEE Transactions on Wireless Communications. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
-- **[Aug. 2023]** Manuscript "FedCiR: Client-invariant representation learning for federated non-IID features" was submitted. [[Paper]](https://arxiv.org/abs/2308.15786)
-- **[Aug. 2023]** Manuscript "Feature Matching Data Synthesis for Non-IID Federated Learning" was submitted. [[Paper]](https://arxiv.org/abs/2308.04761)
-- **[Jul. 2023]** Manuscript "A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency" was submitted. [[Paper]](https://arxiv.org/abs/2307.10655)
-- **[Jul. 2023]** Manuscript "Large language models empowered autonomous edge AI for connected intelligence" was submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
+- **[Sep. 2023]** Our paper "Task-Oriented Communication for Edge Video Analytics" was accepted to IEEE Transactions on Wireless Communications. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
+- **[Aug. 2023]** Manuscript "FedCiR: Client-invariant representation learning for federated non-IID features" was submitted. [[Preprint]](https://arxiv.org/abs/2308.15786)
+- **[Aug. 2023]** Manuscript "Feature Matching Data Synthesis for Non-IID Federated Learning" was submitted. [[Preprint]](https://arxiv.org/abs/2308.04761)
+- **[Jul. 2023]** Manuscript "A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency" was submitted. [[Preprint]](https://arxiv.org/abs/2307.10655)
+- **[Jul. 2023]** Manuscript "Large language models empowered autonomous edge AI for connected intelligence" was submitted. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
 - **[Jun. 2023]** I received the HKUST RedBird Academic Excellence Award in the 2022-23 Academic Year.
-- **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://arxiv.org/abs/2303.11599)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
+- **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2023/689100c537/1PTNbxbOwdq)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
 - **[Jan. 2023]** Our paper "LDMIC: Learning-based distributed multi-view image coding" was accepted to ICLR 2023. [[Paper]](https://openreview.net/forum?id=ILQVw4cA5F9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/Xinjie-Q/LDMIC)
-- **[Jan. 2023]** Our paper "AC2C: Adaptively Controlled Two-Hop Communication for Multi-Agent Reinforcement Learning" was accepted to AAMAS 2023. [[Paper]](https://arxiv.org/abs/2302.12515)
+- **[Jan. 2023]** Our paper "AC2C: Adaptively Controlled Two-Hop Communication for Multi-Agent Reinforcement Learning" was accepted to AAMAS 2023. [[Paper]](https://dl.acm.org/doi/abs/10.5555/3545946.3598667)
 
-
-
-# Preprints
-
-- **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency," submitted. [[Paper]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
-- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," submitted. [[Paper]](https://arxiv.org/pdf/2307.02779.pdf)
-- **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher", submitted. [[Paper]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
-- Y. Sun, **J. Shao**, Y. Mao, S. Li, and J. Zhang, "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design," submitted. [[Paper]](https://arxiv.org/abs/2211.04132)
 
 
 
@@ -60,10 +58,10 @@ I ...
 
 
 - Edge inference, task-oriented communication:
-	- **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Analytics," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://arxiv.org/abs/2211.14049)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
-	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://arxiv.org/abs/2109.00172)[[Code]](https://github.com/shaojiawei07/VDDIB-SR)
-	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://arxiv.org/abs/2102.04170)[[Code]](https://github.com/shaojiawei07/VL-VFE)
-	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://arxiv.org/abs/2006.02166)[[Code]](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)
+	- **J. Shao**, X. Zhang, and J. Zhang, "Task-Oriented Communication for Edge Video Analytics," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
+	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://ieeexplore.ieee.org/document/9837474)[[Code]](https://github.com/shaojiawei07/VDDIB-SR)
+	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9606667)[[Code]](https://github.com/shaojiawei07/VL-VFE)
+	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://ieeexplore.ieee.org/document/9311935)[[Code]](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)
 
 <!-- 
 **J. Shao**, J. Zhang, "BottleNet++: An end-to-end approach for feature compression in device-edge co-inference systems," in *Proc. IEEE Int. Conf. Commun. (ICC) Workshop on Edge Machine Learning for 5G Mobile Networks and Beyond*, Dublin, Ireland, Jun. 2020. [[Paper]](https://arxiv.org/abs/1910.14315)
@@ -72,8 +70,19 @@ X. Zhang, **J. Shao**, Y. Mao, and J. Zhang, "Communication-computation efficien
  -->
 
 - Federated edge learning:
-	- **J. Shao**, Y. Sun, S. Li, and J. Zhang, "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing," *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)*, New Orleans, LA, USA, Nov. 2022. [[Paper]](https://arxiv.org/pdf/2210.02680.pdf)
-	- Y. Sun\*, **J. Shao**\*, S. Li, Y. Mao, and J. Zhang, "Stochastic coded federated learning with convergence and privacy guarantees," *IEEE Int. Symp. Information Theory (ISIT)*, Espoo, Finland, June-July 2022. [[Paper]](https://arxiv.org/abs/2201.10092) (\*equal contribution with [Yuchang Sun](https://hiyuchang.github.io/))
+	- **J. Shao**, F. Wu, and J. Zhang, "Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher，" *Nature Communications*, to appear. [[Preprint]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
+	- **J. Shao**, Y. Sun, S. Li, and J. Zhang, "DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing," *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)*, New Orleans, LA, USA, Nov. 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/448fc91f669c15d10364ee01d512cc10-Paper-Conference.pdf)
+	- Y. Sun\*, **J. Shao**\*, S. Li, Y. Mao, and J. Zhang, "Stochastic coded federated learning with convergence and privacy guarantees," *IEEE Int. Symp. Information Theory (ISIT)*, Espoo, Finland, June-July 2022. [[Paper]](https://ieeexplore.ieee.org/document/9834445) (\*equal contribution with [Yuchang Sun](https://hiyuchang.github.io/))
+
+
+
+# Preprints
+
+- Z. Li, Z. Lin, **J. Shao**, Y. Mao, and J. Zhang, “FedCiR: Client-invariant representation learning for federated non-IID features,” submitted. [[Preprint]](https://arxiv.org/abs/2308.15786)
+- Z. Li, Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, “Feature matching data synthesis for non-IID federated learning,” submitted. [[Preprint]](https://arxiv.org/abs/2308.04761)
+- **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency," submitted. [[Preprint]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
+- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," submitted. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
+
 
 
 <!-- 
