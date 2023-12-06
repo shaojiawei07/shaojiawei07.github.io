@@ -33,6 +33,8 @@ I ...
 
 # News
 
+- **[Nov. 2023]** I am delighted to announce that I have successfully defended my PhD thesis. I would like to sincerely thank [Prof. Jun Zhang](https://eejzhang.people.ust.hk/), [Prof. Khaled B. Letaief](https://eekhaled.home.ece.ust.hk/), [Prof. Ross Murch](https://eermurch.home.ece.ust.hk/), [Prof. Qian Zhang](https://home.cse.ust.hk/~qianzh/), and [Prof. Lin Dai](https://www.ee.cityu.edu.hk/~lindai/) for serving as examiners. Thanks also go to [Prof. Hongyu Yu](https://seng.hkust.edu.hk/about/people/faculty/hongyu-yu) for serving as a chairperson of the examination committee.
+
 - **[Nov. 2023]** Our paper "Selective knowledge sharing for privacy-preserving federated distillation without a good teacher" was accepted to Nature Communications. [[Preprint]](https://arxiv.org/abs/2304.01731)
 
 - **[Nov. 2023]** Our paper "Defending ChatGPT against Jailbreak attack via self-reminder" was accepted to Nature Machine Intelligence. [[Preprint]](https://assets.researchsquare.com/files/rs-2873090/v1_covered_3dc9af48-92ba-491e-924d-b13ba9b7216f.pdf?c=1686882819)
