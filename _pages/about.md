@@ -37,7 +37,7 @@ I ...
 
 - **[Nov. 2023]** Our paper "Selective knowledge sharing for privacy-preserving federated distillation without a good teacher" was accepted to Nature Communications. [[Preprint]](https://arxiv.org/abs/2304.01731)
 
-- **[Nov. 2023]** Our paper "Defending ChatGPT against Jailbreak attack via self-reminder" was accepted to Nature Machine Intelligence. [[Preprint]](https://assets.researchsquare.com/files/rs-2873090/v1_covered_3dc9af48-92ba-491e-924d-b13ba9b7216f.pdf?c=1686882819)
+- **[Nov. 2023]** Our paper "Defending ChatGPT against Jailbreak attack via self-reminder" was accepted to Nature Machine Intelligence. [[Paper]](https://www.nature.com/articles/s42256-023-00765-8#:~:text=We%20find%20that%20ChatGPT's%20performance,standard%20natural%20language%20generation%20tasks.)
 
 - **[Nov. 2023]** Our paper "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design" was accepted to IEEE Transactions on Wireless Communications. [[Preprint]](https://arxiv.org/abs/2211.04132)
 
