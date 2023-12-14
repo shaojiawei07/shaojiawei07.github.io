@@ -12,7 +12,7 @@ redirect_from:
 
 - I received my Ph.D. degree in [Dept. of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) in 2023. Before that, I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
 
-- My research interests lie in the areas of deep learning and communication, including edge inference, task-oriented communication, and federated edge learning (with a focus on communication efficiency and privacy). 
+- My research interests lie in the areas of deep learning and communication, including edge intelligence, task-oriented communication, and federated learning (with a focus on communication efficiency and privacy). 
 	- I closely work with [Dr.	 Yifei Shen](https://www.microsoft.com/en-us/research/people/yifeishen/), [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust), and [Prof. Songze Li](https://songzli.github.io/).
 	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023.
 
@@ -59,7 +59,7 @@ I ...
 # Selected publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en)
 
 
-- Edge inference, task-oriented communication:
+- Edge intelligence, task-oriented communication:
 	- **J. Shao**, X. Zhang, and J. Zhang, "Task-oriented communication for edge video analytics," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://ieeexplore.ieee.org/document/9837474)[[Code]](https://github.com/shaojiawei07/VDDIB-SR)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9606667)[[Code]](https://github.com/shaojiawei07/VL-VFE)
@@ -71,7 +71,7 @@ X. Zhang, **J. Shao**, Y. Mao, and J. Zhang, "Communication-computation efficien
 **J. Shao**, H. Zhang, Y. Mao, and J. Zhang, "Branchy-GNN: a device-edge co-inference framework for efficient point cloud processing," in *Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)*, Toronto, Ontario, Canada, Jun. 2021. [[Paper]](https://arxiv.org/abs/2011.02422)
  -->
 
-- Federated edge learning:
+- Federated learning:
 	- **J. Shao**, F. Wu, and J. Zhang, "Selective knowledge sharing for privacy-preserving federated distillation without a good teacher，" *Nature Communications*, to appear. [[Preprint]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
 	- **J. Shao**, Y. Sun, S. Li, and J. Zhang, "DReS-FL: Dropout-resilient secure federated learning for non-IID clients via secret data sharing," *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)*, New Orleans, LA, USA, Nov. 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/448fc91f669c15d10364ee01d512cc10-Paper-Conference.pdf)
 	- Y. Sun\*, **J. Shao**\*, S. Li, Y. Mao, and J. Zhang, "Stochastic coded federated learning with convergence and privacy guarantees," *IEEE Int. Symp. Information Theory (ISIT)*, Espoo, Finland, June-July 2022. [[Paper]](https://ieeexplore.ieee.org/document/9834445) (\*equal contribution with [Yuchang Sun](https://hiyuchang.github.io/))
