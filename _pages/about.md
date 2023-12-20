@@ -12,7 +12,7 @@ redirect_from:
 
 - I received my Ph.D. degree in [Dept. of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) in 2023. Before that, I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
 
-- My research interests lie in the areas of deep learning and communication, including edge intelligence, task-oriented communication, and federated learning (with a focus on communication efficiency and privacy). 
+- My research interests lie in the areas of deep learning and communication, including edge intelligence, task-oriented communication, federated learning, and generative models. 
 	- I closely work with [Dr.	 Yifei Shen](https://www.microsoft.com/en-us/research/people/yifeishen/), [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust), and [Prof. Songze Li](https://songzli.github.io/).
 	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023.
 
@@ -32,6 +32,8 @@ I ...
 - [Apr., 2022] One paper on coded computing and federated learning are accepted to ISIT 2022:  -->
 
 # News
+
+- **[Dec. 2023]** Our paper "Large language models empowered autonomous edge AI for connected intelligence" was accepeted to IEEE Communications Magazine. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
 
 - **[Nov. 2023]** I am delighted to announce that I have successfully defended my PhD thesis. I would like to sincerely thank [Prof. Jun Zhang](https://eejzhang.people.ust.hk/), [Prof. Khaled B. Letaief](https://eekhaled.home.ece.ust.hk/), [Prof. Ross Murch](https://eermurch.home.ece.ust.hk/), [Prof. Qian Zhang](https://home.cse.ust.hk/~qianzh/), and [Prof. Lin Dai](https://www.ee.cityu.edu.hk/~lindai/) for serving as examiners. Thanks also go to [Prof. Hongyu Yu](https://seng.hkust.edu.hk/about/people/faculty/hongyu-yu) for serving as a chairperson of the examination committee.
 
@@ -65,17 +67,15 @@ I ...
 	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9606667)[[Code]](https://github.com/shaojiawei07/VL-VFE)
 	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://ieeexplore.ieee.org/document/9311935)[[Code]](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)
 
-<!-- 
-**J. Shao**, J. Zhang, "BottleNet++: An end-to-end approach for feature compression in device-edge co-inference systems," in *Proc. IEEE Int. Conf. Commun. (ICC) Workshop on Edge Machine Learning for 5G Mobile Networks and Beyond*, Dublin, Ireland, Jun. 2020. [[Paper]](https://arxiv.org/abs/1910.14315)
-X. Zhang, **J. Shao**, Y. Mao, and J. Zhang, "Communication-computation efficient device-edge co-inference via AutoML," *IEEE Globecom*, Madrid, Spain, Dec. 2021. [[Paper]](https://arxiv.org/abs/2108.13009)
-**J. Shao**, H. Zhang, Y. Mao, and J. Zhang, "Branchy-GNN: a device-edge co-inference framework for efficient point cloud processing," in *Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)*, Toronto, Ontario, Canada, Jun. 2021. [[Paper]](https://arxiv.org/abs/2011.02422)
- -->
 
 - Federated learning:
-	- **J. Shao**, F. Wu, and J. Zhang, "Selective knowledge sharing for privacy-preserving federated distillation without a good teacher，" *Nature Communications*, to appear. [[Preprint]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
+	- **J. Shao**, F. Wu, and J. Zhang, "Selective knowledge sharing for privacy-preserving federated distillation without a good teacher," *Nature Communications*, to appear. [[Preprint]](https://arxiv.org/abs/2304.01731)[[Code]](https://github.com/shaojiawei07/Selective-FD)
 	- **J. Shao**, Y. Sun, S. Li, and J. Zhang, "DReS-FL: Dropout-resilient secure federated learning for non-IID clients via secret data sharing," *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)*, New Orleans, LA, USA, Nov. 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/448fc91f669c15d10364ee01d512cc10-Paper-Conference.pdf)
-	- Y. Sun\*, **J. Shao**\*, S. Li, Y. Mao, and J. Zhang, "Stochastic coded federated learning with convergence and privacy guarantees," *IEEE Int. Symp. Information Theory (ISIT)*, Espoo, Finland, June-July 2022. [[Paper]](https://ieeexplore.ieee.org/document/9834445) (\*equal contribution with [Yuchang Sun](https://hiyuchang.github.io/))
 
+
+- Generative models and large language models:
+	- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," *IEEE Commun. Mag.*, to appear. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
+	- Y. Xie, J. Yi, **J. Shao**, J. Curl, L. Lyu, Q. Chen, X. Xie, F. Wu, "Defending ChatGPT against Jailbreak attack via self-reminder," *Nature Machine Intelligence*, pp. 1-11, Dec. 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00765-8#:~:text=We%20find%20that%20ChatGPT's%20performance,standard%20natural%20language%20generation%20tasks.)
 
 
 # Preprints
@@ -83,7 +83,7 @@ X. Zhang, **J. Shao**, Y. Mao, and J. Zhang, "Communication-computation efficien
 - Z. Li, Z. Lin, **J. Shao**, Y. Mao, and J. Zhang, “FedCiR: Client-invariant representation learning for federated non-IID features,” submitted. [[Preprint]](https://arxiv.org/abs/2308.15786)
 - Z. Li, Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, “Feature matching data synthesis for non-IID federated learning,” submitted. [[Preprint]](https://arxiv.org/abs/2308.04761)
 - **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated learning: perspectives on model utility, privacy leakage, and communication efficiency," submitted. [[Preprint]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
-- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," submitted. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
+
 
 
 
