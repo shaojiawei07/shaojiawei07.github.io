@@ -78,7 +78,7 @@ I ...
 	- Y. Xie, J. Yi, **J. Shao**, J. Curl, L. Lyu, Q. Chen, X. Xie, F. Wu, "Defending ChatGPT against Jailbreak attack via self-reminder," *Nature Machine Intelligence*, pp. 1-11, Dec. 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00765-8#:~:text=We%20find%20that%20ChatGPT's%20performance,standard%20natural%20language%20generation%20tasks.)
 
 
-# Preprints
+# Submitted
 
 - Z. Li, Z. Lin, **J. Shao**, Y. Mao, and J. Zhang, “FedCiR: Client-invariant representation learning for federated non-IID features,” submitted. [[Preprint]](https://arxiv.org/abs/2308.15786)
 - Z. Li, Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, “Feature matching data synthesis for non-IID federated learning,” submitted. [[Preprint]](https://arxiv.org/abs/2308.04761)
