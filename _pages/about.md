@@ -34,15 +34,10 @@ I ...
 # News
 
 - **[Dec. 2023]** Our paper "Large language models empowered autonomous edge AI for connected intelligence" was accepeted to IEEE Communications Magazine. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
-
 - **[Nov. 2023]** I am delighted to announce that I have successfully defended my PhD thesis. I would like to sincerely thank [Prof. Jun Zhang](https://eejzhang.people.ust.hk/), [Prof. Khaled B. Letaief](https://eekhaled.home.ece.ust.hk/), [Prof. Ross Murch](https://eermurch.home.ece.ust.hk/), [Prof. Qian Zhang](https://home.cse.ust.hk/~qianzh/), and [Prof. Lin Dai](https://www.ee.cityu.edu.hk/~lindai/) for serving as examiners. Thanks also go to [Prof. Hongyu Yu](https://seng.hkust.edu.hk/about/people/faculty/hongyu-yu) for serving as a chairperson of the examination committee.
-
 - **[Nov. 2023]** Our paper "Selective knowledge sharing for privacy-preserving federated distillation without a good teacher" was accepted to Nature Communications. [[Preprint]](https://arxiv.org/abs/2304.01731)
-
 - **[Nov. 2023]** Our paper "Defending ChatGPT against Jailbreak attack via self-reminder" was accepted to Nature Machine Intelligence. [[Paper]](https://www.nature.com/articles/s42256-023-00765-8#:~:text=We%20find%20that%20ChatGPT's%20performance,standard%20natural%20language%20generation%20tasks.)
-
 - **[Nov. 2023]** Our paper "Stochastic coded federated learning: Theoretical analysis and incentive mechanism design" was accepted to IEEE Transactions on Wireless Communications. [[Preprint]](https://arxiv.org/abs/2211.04132)
-
 - **[Nov. 2023]** I received the HKTIIT Postgraduate Excellence Scholarships in the 2022-23 Academic Year.
 - **[Sep. 2023]** I presented a poster "EdgeGPT: GPT-empowered autonomous edge inference" on the IEEE Hong Kong 6G Wireless Summit. [[Poster]](https://github.com/shaojiawei07/shaojiawei07.github.io/tree/main/images/Jiawei_Poster_EdgeGPT.pdf)
 - **[Sep. 2023]** Our paper "Task-oriented communication for edge video analytics" was accepted to IEEE Transactions on Wireless Communications. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
