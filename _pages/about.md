@@ -30,11 +30,12 @@ I ...
 
 <!-- News
 ======
-- [Apr., 2022] One paper on coded computing and federated learning are accepted to ISIT 2022:  -->
+- [Apr., 2022] One paper on coded computing and federated learning is accepted to ISIT 2022:  -->
 
 # News
 
-- **[Dec. 2023]** Our paper "Large language models empowered autonomous edge AI for connected intelligence" was accepeted to IEEE Communications Magazine. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
+- **[Feb. 2024]** Our paper "Feature Matching Data Synthesis for Non-IID Federated Learning" was accepted to IEEE Transactions on Mobile Computing. [[Paper]](https://ieeexplore.ieee.org/document/10433716)
+- **[Dec. 2023]** Our paper "Large language models empowered autonomous edge AI for connected intelligence" was accepted to IEEE Communications Magazine. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
 - **[Nov. 2023]** I am delighted to announce that I have successfully defended my PhD thesis. I would like to sincerely thank [Prof. Jun Zhang](https://eejzhang.people.ust.hk/), [Prof. Khaled B. Letaief](https://eekhaled.home.ece.ust.hk/), [Prof. Ross Murch](https://eermurch.home.ece.ust.hk/), [Prof. Qian Zhang](https://home.cse.ust.hk/~qianzh/), and [Prof. Lin Dai](https://www.ee.cityu.edu.hk/~lindai/) for serving as examiners. Thanks also go to [Prof. Hongyu Yu](https://seng.hkust.edu.hk/about/people/faculty/hongyu-yu) for serving as a chairperson of the examination committee.
 - **[Nov. 2023]** Our paper "Selective knowledge sharing for privacy-preserving federated distillation without a good teacher" was accepted to Nature Communications. [[Preprint]](https://arxiv.org/abs/2304.01731)
 - **[Nov. 2023]** Our paper "Defending ChatGPT against Jailbreak attack via self-reminder" was accepted to Nature Machine Intelligence. [[Paper]](https://www.nature.com/articles/s42256-023-00765-8#:~:text=We%20find%20that%20ChatGPT's%20performance,standard%20natural%20language%20generation%20tasks.)
@@ -43,13 +44,11 @@ I ...
 - **[Sep. 2023]** I presented a poster "EdgeGPT: GPT-empowered autonomous edge inference" on the IEEE Hong Kong 6G Wireless Summit. [[Poster]](https://github.com/shaojiawei07/shaojiawei07.github.io/tree/main/images/Jiawei_Poster_EdgeGPT.pdf)
 - **[Sep. 2023]** Our paper "Task-oriented communication for edge video analytics" was accepted to IEEE Transactions on Wireless Communications. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 - **[Aug. 2023]** Manuscript "FedCiR: Client-invariant representation learning for federated non-IID features" was submitted. [[Preprint]](https://arxiv.org/abs/2308.15786)
-- **[Aug. 2023]** Manuscript "Feature matching data synthesis for non-IID federated learning" was submitted. [[Preprint]](https://arxiv.org/abs/2308.04761)
 - **[Jul. 2023]** Manuscript "A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency" was submitted. [[Preprint]](https://arxiv.org/abs/2307.10655)
 - **[Jul. 2023]** Manuscript "Large language models empowered autonomous edge AI for connected intelligence" was submitted. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
 - **[Jun. 2023]** I received the HKUST RedBird Academic Excellence Award in the 2022-23 Academic Year.
 - **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2023/689100c537/1PTNbxbOwdq)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
-- **[Jan. 2023]** Our paper "LDMIC: Learning-based distributed multi-view image coding" was accepted to ICLR 2023. [[Paper]](https://openreview.net/forum?id=ILQVw4cA5F9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/Xinjie-Q/LDMIC)
-- **[Jan. 2023]** Our paper "AC2C: Adaptively controlled two-hop communication for multi-agent reinforcement learning" was accepted to AAMAS 2023. [[Paper]](https://dl.acm.org/doi/abs/10.5555/3545946.3598667)
+
 
 
 
@@ -77,8 +76,7 @@ I ...
 # Submitted
 
 - Z. Li, Z. Lin, **J. Shao**, Y. Mao, and J. Zhang, “FedCiR: Client-invariant representation learning for federated non-IID features,” submitted. [[Preprint]](https://arxiv.org/abs/2308.15786)
-- Z. Li, Y. Sun, **J. Shao**, Y. Mao, J. Wang, and J. Zhang, “Feature matching data synthesis for non-IID federated learning,” submitted. [[Preprint]](https://arxiv.org/abs/2308.04761)
-- **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated learning: perspectives on model utility, privacy leakage, and communication efficiency," submitted. [[Preprint]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
+- **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: perspectives on model utility, privacy leakage, and communication efficiency," submitted. [[Preprint]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
 
 
 
