@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Jiawei Shao's Homepage"
 title_separator          : "-"
-name                     : &name "2.Name"
-description              : &description "3.Description"
+name                     : &name "Jiawei Shao"
+description              : &description "Welcome to the personal homepage of Jiawei Shao. Here you'll find information about my professional background, publications, and interests."
 url                      : https://shaojiawei07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shaojiawei07/shaojiawei07.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiawei Shao"
   avatar           : "profile_1.jpg"
-  bio              : "Ph.D. @ HKUST, Email: [first name] dot [last name]@connect.ust.hk"
+  bio              : "Postdoc @ HKUST, Email: [first name] dot [last name]@connect.ust.hk"
   location         : 
   employer         :
   pubmed           : 
