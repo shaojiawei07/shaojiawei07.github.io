@@ -13,7 +13,7 @@ redirect_from:
 - I am currently a postdoc at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 - I received my Ph.D. in [Dept. of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at HKUST, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) in 2024. Before that, I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
 
-- My research interests lie in the areas of deep learning and communications, including edge intelligence, task-oriented communication, federated learning, and generative models. 
+- My research interests lie in edge intelligence, device-edge cooperative inference, task-oriented communications, federated learning, jailbreak attacks, and multimodal models. 
 	- I closely work with [Dr.	 Yifei Shen](https://www.microsoft.com/en-us/research/people/yifeishen/), [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust), and [Prof. Songze Li](https://songzli.github.io/).
 	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023.
 
