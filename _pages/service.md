@@ -14,6 +14,7 @@ author_profile: false
 * IEEE Communications Letters
 * IEEE Transactions on Cognitive Communications and Networking
 * IEEE Transactions on Green Communications and Networking
+* IEEE Transactions on Neural Networks and Learning Systems
 * Science China Information Sciences 
 
 ## Conference reviewer
@@ -22,5 +23,5 @@ author_profile: false
 * International Conference on Learning Representations (ICLR)
 * Conference on Neural Information Processing Systems (NeurIPS)
 * Conference on Machine Learning and Systems (MLSys)
-* IEEE Global Communications Conference
-* IEEE International Conference on Communications
+* IEEE Global Communications Conference (GLOBECOM)
+* IEEE International Conference on Communications (ICC)
