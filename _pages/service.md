@@ -14,6 +14,7 @@ author_profile: false
 * IEEE Communications Letters
 * IEEE Transactions on Cognitive Communications and Networking
 * IEEE Transactions on Green Communications and Networking
+* IEEE Transactions on Machine Learning in Communications and Networking
 * IEEE Transactions on Neural Networks and Learning Systems
 * Science China Information Sciences 
 
