@@ -16,6 +16,7 @@ author_profile: false
 * IEEE Transactions on Green Communications and Networking
 * IEEE Transactions on Machine Learning in Communications and Networking
 * IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Open Journal of the Computer Society
 * Science China Information Sciences 
 
 ## Conference reviewer

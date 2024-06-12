@@ -11,11 +11,18 @@ redirect_from:
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 - I am currently a postdoc at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+	- I closely worked with [Dr. Yifei Shen](https://www.microsoft.com/en-us/research/people/yifeishen/), [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust), and [Prof. Songze Li](https://songzli.github.io/).
+
 - I received my Ph.D. in [Dept. of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at HKUST, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) in 2024. Before that, I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
 
-- My research interests lie in edge intelligence, device-edge cooperative inference, task-oriented communications, federated learning, jailbreak attacks, and multimodal models. 
-	- I closely work with [Dr.	 Yifei Shen](https://www.microsoft.com/en-us/research/people/yifeishen/), [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust), and [Prof. Songze Li](https://songzli.github.io/).
-	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023.
+- My research interests lie in 
+	- **Edge AI**: Device-Edge Cooperative Inference, Neural Data Compression.
+	- **Trustworthy AI**: Federated Learning, Differential Privacy, Jailbreak Attacks.
+	- **Generative AI**: Large Language Models, Multimodal Models, Intelligent Agents.
+
+
+
+<!--	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023. -->
 
 <!-- particularly in
 
@@ -34,9 +41,11 @@ I ...
 
 # News
 
+- **[Jun. 2024]** I received the School of Engineering (SENG) PhD Research Excellence Award 2023-24. [[E-news article]](https://seng.hkust.edu.hk/news/20240608/electronic-and-computer-engineering-phd-graduate-recognized-research-privacy-preserving-distributed-learning)
+- **[May 2024]** Manuscript "WirelessLLM: Empowering large language models towards wireless intelligence" was submitted. [[Preprint]](https://arxiv.org/abs/2405.17053)[[微信公众号文章]](https://mp.weixin.qq.com/s/-qL3kDFQlvOPAvwIySgTAQ)
 - **[Mar. 2024]** Our paper "FedCiR: Client-Invariant Representation Learning for Federated Non-IID Features" was accepted to IEEE Transactions on Mobile Computing. [[Preprint]](https://arxiv.org/abs/2308.15786)
 - **[Feb. 2024]** Our paper "Feature Matching Data Synthesis for Non-IID Federated Learning" was accepted to IEEE Transactions on Mobile Computing. [[Paper]](https://ieeexplore.ieee.org/document/10433716)
-- **[Dec. 2023]** Our paper "Large language models empowered autonomous edge AI for connected intelligence" was accepted to IEEE Communications Magazine. [[Paper]](https://ieeexplore.ieee.org/document/10384606)
+- **[Dec. 2023]** Our paper "Large language models empowered autonomous edge AI for connected intelligence" was accepted to IEEE Communications Magazine. [[Paper]](https://ieeexplore.ieee.org/document/10384606)[[微信公众号文章]](https://mp.weixin.qq.com/s/r6uoiicr0fqQ1S9zlhB4wg)
 - **[Nov. 2023]** I am delighted to announce that I have successfully defended my PhD thesis. I would like to sincerely thank [Prof. Jun Zhang](https://eejzhang.people.ust.hk/), [Prof. Khaled B. Letaief](https://eekhaled.home.ece.ust.hk/), [Prof. Ross Murch](https://eermurch.home.ece.ust.hk/), [Prof. Qian Zhang](https://home.cse.ust.hk/~qianzh/), and [Prof. Lin Dai](https://www.ee.cityu.edu.hk/~lindai/) for serving as examiners. Thanks also go to [Prof. Hongyu Yu](https://seng.hkust.edu.hk/about/people/faculty/hongyu-yu) for serving as a chairperson of the examination committee.
 - **[Nov. 2023]** Our paper "Selective knowledge sharing for privacy-preserving federated distillation without a good teacher" was accepted to Nature Communications. [[Paper]](https://www.nature.com/articles/s41467-023-44383-9)
 - **[Nov. 2023]** Our paper "Defending ChatGPT against Jailbreak attack via self-reminder" was accepted to Nature Machine Intelligence. [[Paper]](https://www.nature.com/articles/s42256-023-00765-8#:~:text=We%20find%20that%20ChatGPT's%20performance,standard%20natural%20language%20generation%20tasks.)
@@ -46,7 +55,11 @@ I ...
 - **[Sep. 2023]** Our paper "Task-oriented communication for edge video analytics" was accepted to IEEE Transactions on Wireless Communications. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 - **[Jul. 2023]** Manuscript "A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency" was submitted. [[Preprint]](https://arxiv.org/abs/2307.10655)
 - **[Jun. 2023]** I received the HKUST RedBird Academic Excellence Award in the 2022-23 Academic Year.
-- **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2023/689100c537/1PTNbxbOwdq)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
+
+
+<!-- 
+**[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2023/689100c537/1PTNbxbOwdq)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
+ -->
 
 
 
