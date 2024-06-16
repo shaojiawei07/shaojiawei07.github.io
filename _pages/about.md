@@ -10,15 +10,21 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-- I am currently a postdoc at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), working with [Prof. Jun Zhang](https://eejzhang.people.ust.hk/).
-	- I closely collaborated with [Dr. Yifei Shen](https://www.microsoft.com/en-us/research/people/yifeishen/), [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust), and [Prof. Songze Li](https://songzli.github.io/).
+<!--	- I closely collaborated with [Dr. Yifei Shen](https://www.microsoft.com/en-us/research/people/yifeishen/), [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust), and [Prof. Songze Li](https://songzli.github.io/). 
 
-- I received my Ph.D. in [Dept. of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at HKUST, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) in 2024. Before that, I received my B.Eng in Telecommunication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.
+at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
-- My research interests lie in 
-	- **Edge AI**: Device-Edge Cooperative Inference, Neural Data Compression.
-	- **Trustworthy AI**: Federated Learning, Differential Privacy, Jailbreak Attacks.
-	- **Generative AI**: Large Language Models, Multimodal Models, Intelligent Agents.
+
+-->
+
+
+
+I am currently a Postdoc Fellow with the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), where I received my Ph.D. under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) in 2024. Before that, I received my B.Eng in Telecommunication Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2019.
+
+# Research interests
+- **Edge AI**: Device-Edge Cooperative Inference, Neural Data Compression.
+- **Trustworthy AI**: Federated Learning, Differential Privacy, Jailbreak Attacks.
+- **Generative AI**: Gaussian Splatting, Large Language Models, Intelligent Agents.
 
 
 
