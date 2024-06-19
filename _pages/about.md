@@ -96,6 +96,8 @@ I ...
 # Submitted
 
 - **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: perspectives on model utility, privacy leakage, and communication efficiency," submitted. [[Preprint]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
+- Z. Li, Q. Guo, **J. Shao**, L. Song, J. Bian, J. Zhang, R. Wang, "Graph Neural Network Enhanced Retrieval for Question Answering of LLMs," submitted. [[Preprint]](https://arxiv.org/abs/2406.06572)
+
 
 
 
