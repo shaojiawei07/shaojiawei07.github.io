@@ -46,7 +46,7 @@ I ...
 - [Apr., 2022] One paper on coded computing and federated learning is accepted to ISIT 2022:  -->
 
 # News
-
+- **[Jul. 2024]** Our paper "Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model" was accepted to ECCV 2024.
 - **[Jun. 2024]** I received the School of Engineering (SENG) PhD Research Excellence Award 2023-24. [[E-news article]](https://seng.hkust.edu.hk/news/20240608/electronic-and-computer-engineering-phd-graduate-recognized-research-privacy-preserving-distributed-learning)
 - **[Jun. 2024]** Manuscript "WirelessLLM: Empowering large language models towards wireless intelligence" was accepted. [[Preprint]](https://arxiv.org/abs/2405.17053)[[微信公众号文章]](https://mp.weixin.qq.com/s/-qL3kDFQlvOPAvwIySgTAQ)
 - **[Mar. 2024]** Our paper "FedCiR: Client-Invariant Representation Learning for Federated Non-IID Features" was accepted to IEEE Transactions on Mobile Computing. [[Preprint]](https://arxiv.org/abs/2308.15786)
