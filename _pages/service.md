@@ -12,12 +12,15 @@ author_profile: false
 * IEEE Transactions on Mobile Computing
 * IEEE Wireless Communications Letters
 * IEEE Communications Letters
+* IEEE Internet of Things Journal
 * IEEE Transactions on Cognitive Communications and Networking
 * IEEE Transactions on Green Communications and Networking
 * IEEE Transactions on Machine Learning in Communications and Networking
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Open Journal of the Computer Society
 * Science China Information Sciences 
+
+
 
 ## Conference reviewer
 
