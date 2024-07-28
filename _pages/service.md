@@ -10,8 +10,9 @@ author_profile: false
 * IEEE Transactions on Wireless Communications
 * IEEE Transactions on Communications
 * IEEE Transactions on Mobile Computing
-* IEEE Wireless Communications Letters
+* IEEE Network
 * IEEE Communications Letters
+* IEEE Wireless Communications Letters
 * IEEE Internet of Things Journal
 * IEEE Transactions on Cognitive Communications and Networking
 * IEEE Transactions on Green Communications and Networking
