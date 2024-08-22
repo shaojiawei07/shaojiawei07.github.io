@@ -44,7 +44,7 @@ Our group is currently hiring self-motivated interns who can work in Shanghai fo
 
 <span style="color:red">
 
-Please send your CV to TeleAl.HR@ChinaTelecom.cn and CC me on the email. Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
+Please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email. Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
 
 </span>
 
