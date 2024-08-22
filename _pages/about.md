@@ -31,7 +31,7 @@ He received his Ph.D. from the Hong Kong University of Science and Technology in
 
 
 
-# <span style="color:red"> Opennings
+# <span style="color:red"> Openings </span>
 
 
 
