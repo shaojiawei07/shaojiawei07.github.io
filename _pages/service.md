@@ -4,6 +4,10 @@ title: "Academic services"
 author_profile: false
 ---
 
+## Guest editor
+
+* MDPI Algorithms, Special issue on "Recent Advances on the Synergy between Federated Learning and Foundation Models" (co-editing with [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust/home))
+
 ## Journal reviewer
 
 * IEEE Journal on Selected Areas in Communications
@@ -31,3 +35,4 @@ author_profile: false
 * Conference on Machine Learning and Systems (MLSys)
 * IEEE Global Communications Conference (GLOBECOM)
 * IEEE International Conference on Communications (ICC)
+* Conference on Wireless Communications and Signal Processing (WCSP)
