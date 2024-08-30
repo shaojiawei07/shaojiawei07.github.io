@@ -25,24 +25,31 @@ I am currently a Postdoc Fellow with the Department of Electronic and Computer E
 -->
 
 
-Dr. Jiawei Shao is an <span style="color:red">incoming researcher</span> at [China Telecom Institute of Artificial Intelligence (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai. He will work at the intersection of **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**, directed by [Prof. Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). 
+Dr. Jiawei Shao is an <span style="color:blue">incoming researcher</span> at [China Telecom Institute of Artificial Intelligence (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai. He will work at the intersection of **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**, directed by [Prof. Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). 
 
 He received his Ph.D. from the Hong Kong University of Science and Technology in 2024, under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before that, he received his B.Eng. from Beijing University of Posts and Telecommunications in 2019.
 
 
 
-# <span style="color:red"> Openings </span>
+# <span style="color:blue"> Openings </span>
 
 
 
-Our group is currently hiring self-motivated interns who can work in Shanghai for more than three months. Relevant topics include:
+I am currently hiring interns (who can work in Shanghai for more than three months) and PhD students (for Fall 2025). Relevant topics include:
 
 - Multimodal large language models and collaborative inference **(High priority)**
 - 3D scene representation and volumetric video streaming
 - Security and privacy issues in generative models
 
-<span style="color:red"> Please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email.</span> Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
+For intern positions, please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email. Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
 
+For PhD candidates, please find more details [here](https://mp.weixin.qq.com/s/vUyOTLywdUNlLGk1ZvUpWA) and contact me by email.
+
+
+
+<!--
+<span style="color:red"> Please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email.</span> Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ) and 
+ -->
 
 
 
