@@ -25,7 +25,7 @@ I am currently a Postdoc Fellow with the Department of Electronic and Computer E
 -->
 
 
-Dr. Jiawei Shao is an <span style="color:blue">**incoming researcher**</span> at [China Telecom Institute of Artificial Intelligence (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai. He will work at the intersection of **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**, directed by [Prof. Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). 
+Dr. Jiawei Shao is a **researcher** at [China Telecom Institute of Artificial Intelligence (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai. He will work at the intersection of **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**, directed by [Prof. Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). 
 
 He received his Ph.D. from the Hong Kong University of Science and Technology in 2024, under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before that, he received his B.Eng. from Beijing University of Posts and Telecommunications in 2019.
 
