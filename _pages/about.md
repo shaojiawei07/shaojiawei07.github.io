@@ -37,8 +37,8 @@ He received his Ph.D. from the Hong Kong University of Science and Technology in
 
 I am currently hiring interns (who can work in Shanghai for more than three months) and PhD students (for Fall 2025). Relevant topics include:
 
-- Multimodal large language models and collaborative inference **(High priority)**
-- Security/Privacy issues in generative models and edge AI systems.
+- Multimodal large language models and device-edge-cloud collaborative inference **(High priority)**
+- Security/Privacy issues in generative models and edge AI systems
 
 <!--
 - 3D scene representation and volumetric video streaming
