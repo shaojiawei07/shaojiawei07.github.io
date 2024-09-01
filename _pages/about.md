@@ -38,8 +38,11 @@ He received his Ph.D. from the Hong Kong University of Science and Technology in
 I am currently hiring interns (who can work in Shanghai for more than three months) and PhD students (for Fall 2025). Relevant topics include:
 
 - Multimodal large language models and collaborative inference **(High priority)**
+- Security/Privacy issues in generative models and edge inference
+
+<!--
 - 3D scene representation and volumetric video streaming
-- Security and privacy issues in generative models
+-->
 
 For intern positions, please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email. Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
 
