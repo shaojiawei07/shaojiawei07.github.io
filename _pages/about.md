@@ -61,7 +61,7 @@ For PhD candidates, please find more details [here](https://mp.weixin.qq.com/s/v
 
 # Research interests
 - **Edge AI**: Device-Edge Cooperative Inference, Neural Data Compression.
-- **Generative AI**: Gaussian Splatting, Large Language Models, Intelligent Agents.
+- **Generative AI**: Gaussian Splatting, Multimodal Large Language Models, Intelligent Agents.
 - **Trustworthy AI**: Federated Learning, Differential Privacy, Jailbreak Attacks.
 
 <!--	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023. -->
