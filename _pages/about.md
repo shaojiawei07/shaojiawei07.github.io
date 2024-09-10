@@ -102,9 +102,6 @@ I ...
 **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2023/689100c537/1PTNbxbOwdq)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
  -->
 
-<!--
-- **[Jun. 2024]** Manuscript "WirelessLLM: Empowering large language models towards wireless intelligence" was accepted. [[Preprint]](https://arxiv.org/abs/2405.17053)[[微信公众号文章]](https://mp.weixin.qq.com/s/-qL3kDFQlvOPAvwIySgTAQ) -->
-
 
 
 
@@ -127,9 +124,6 @@ I ...
 - Generative models and large language models:
 	- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," *IEEE Commun. Mag.*, to appear. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
 	- Y. Xie, J. Yi, **J. Shao**, J. Curl, L. Lyu, Q. Chen, X. Xie, F. Wu, "Defending ChatGPT against Jailbreak attack via self-reminder," *Nature Machine Intelligence*, pp. 1-11, Dec. 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00765-8#:~:text=We%20find%20that%20ChatGPT's%20performance,standard%20natural%20language%20generation%20tasks.)
-<!--
-	- J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence", to appear. [[Preprint]](https://arxiv.org/abs/2405.17053)[[微信公众号文章]](https://mp.weixin.qq.com/s/-qL3kDFQlvOPAvwIySgTAQ)
--->
 
 
 # Submitted
