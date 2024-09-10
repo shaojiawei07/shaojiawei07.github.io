@@ -61,7 +61,7 @@ For PhD candidates, please find more details [here](https://mp.weixin.qq.com/s/v
 
 # Research interests
 - **Edge AI**: Device-Edge Cooperative Inference, Neural Data Compression.
-- **Generative AI**: Gaussian Splatting, Multimodal Large Language Models, Intelligent Agents.
+- **Generative AI**: Multimodal Large Language Models, Gaussian Splatting, Intelligent Agents.
 - **Trustworthy AI**: Federated Learning, Differential Privacy, Jailbreak Attacks.
 
 <!--	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023. -->
@@ -127,8 +127,9 @@ I ...
 - Generative models and large language models:
 	- Y. Shen, **J. Shao**, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and K. Letaief, "Large language models empowered autonomous edge AI for connected intelligence," *IEEE Commun. Mag.*, to appear. [[Preprint]](https://arxiv.org/pdf/2307.02779.pdf)
 	- Y. Xie, J. Yi, **J. Shao**, J. Curl, L. Lyu, Q. Chen, X. Xie, F. Wu, "Defending ChatGPT against Jailbreak attack via self-reminder," *Nature Machine Intelligence*, pp. 1-11, Dec. 2023. [[Paper]](https://www.nature.com/articles/s42256-023-00765-8#:~:text=We%20find%20that%20ChatGPT's%20performance,standard%20natural%20language%20generation%20tasks.)
-
+<!--
 	- J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence", to appear. [[Preprint]](https://arxiv.org/abs/2405.17053)[[微信公众号文章]](https://mp.weixin.qq.com/s/-qL3kDFQlvOPAvwIySgTAQ)
+-->
 
 
 # Submitted
