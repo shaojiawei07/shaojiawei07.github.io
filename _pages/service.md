@@ -25,13 +25,12 @@ author_profile: false
 * IEEE Open Journal of the Computer Society
 * Science China Information Sciences 
 
-
-
 ## Conference reviewer
 
 * International Conference on Machine Learning (ICML)
 * International Conference on Learning Representations (ICLR)
 * Conference on Neural Information Processing Systems (NeurIPS)
+* Association for the Advancement of Artificial Intelligence Conference (AAAI)
 * Conference on Machine Learning and Systems (MLSys)
 * IEEE Global Communications Conference (GLOBECOM)
 * IEEE International Conference on Communications (ICC)
