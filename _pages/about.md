@@ -35,7 +35,7 @@ He received his Ph.D. from the Hong Kong University of Science and Technology in
 
 
 
-I am hiring interns (who can work in Shanghai for over three months) and PhD students (for Fall 2025). Relevant topics include:
+I am hiring interns who can work in Shanghai for over three months. Relevant topics include:
 
 - Vision-language models and multimodal integration
 - Model fine-tuning, compression, and acceleration
