@@ -37,11 +37,13 @@ He received his Ph.D. from the Hong Kong University of Science and Technology in
 
 I am hiring interns (who can work in Shanghai for over three months) and PhD students (for Fall 2025). Relevant topics include:
 
-- Vision-language models and device-edge-cloud collaborative inference
-- 3D scene representation and volumetric video streaming
+- Vision-language models and multimodal integration
+- Model fine-tuning, compression, and acceleration
+- Device-edge-cloud collaborative inference
 - Security/Privacy issues in generative models and edge AI systems
 
 <!--
+- 3D scene representation and volumetric video streaming
 - 3D scene representation and volumetric video streaming
 -  Multimodal large language models and device-edge-cloud collaborative inference **(High priority)**
 -->
