@@ -111,7 +111,7 @@ I ...
 # Selected publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en)
 
 
-- Edge intelligence, task-oriented communication:
+- Edge AI, task-oriented communication:
 	- **J. Shao**, X. Zhang, and J. Zhang, "Task-oriented communication for edge video analytics," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://ieeexplore.ieee.org/document/9837474)[[Code]](https://github.com/shaojiawei07/VDDIB-SR)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9606667)[[Code]](https://github.com/shaojiawei07/VL-VFE)
