@@ -84,7 +84,9 @@ I ...
 - [Apr., 2022] One paper on coded computing and federated learning is accepted to ISIT 2022:  -->
 
 # News
-- **[Jul. 2024]** Our paper "Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model" was accepted to ECCV 2024.
+- **[Oct. 2024]** Our paper "EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings" was submitted. [[Preprint]](https://arxiv.org/abs/2410.01425)[[Project Page]](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)
+- **[Jul. 2024]** Our paper "Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model" was accepted to ECCV 2024. [[Paper]](https://arxiv.org/abs/2407.10632)
+- **[Jun. 2024]** Our paper "Graph Neural Network Enhanced Retrieval for Question Answering of LLMs" was submitted. [[Preprint]](https://arxiv.org/abs/2406.06572)
 - **[Jun. 2024]** I received the School of Engineering (SENG) PhD Research Excellence Award 2023-24. [[E-news article]](https://seng.hkust.edu.hk/news/20240608/electronic-and-computer-engineering-phd-graduate-recognized-research-privacy-preserving-distributed-learning)
 - **[Mar. 2024]** Our paper "FedCiR: Client-Invariant Representation Learning for Federated Non-IID Features" was accepted to IEEE Transactions on Mobile Computing. [[Preprint]](https://arxiv.org/abs/2308.15786)
 - **[Feb. 2024]** Our paper "Feature Matching Data Synthesis for Non-IID Federated Learning" was accepted to IEEE Transactions on Mobile Computing. [[Paper]](https://ieeexplore.ieee.org/document/10433716)
@@ -132,6 +134,7 @@ I ...
 
 - **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: perspectives on model utility, privacy leakage, and communication efficiency," submitted. [[Preprint]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
 - Z. Li, Q. Guo, **J. Shao**, L. Song, J. Bian, J. Zhang, R. Wang, "Graph Neural Network Enhanced Retrieval for Question Answering of LLMs," submitted. [[Preprint]](https://arxiv.org/abs/2406.06572)
+- Y. Hu, Z. Liu, **J. Shao**, Z. Lin, J. Zhang, "EVA-Gaussian: 3D Gaussian-Based Real-time Human Novel View Synthesis Under Diverse Camera Settings", submitted. [[Preprint]](https://arxiv.org/abs/2410.01425)[[Project Page]](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)
 
 
 
