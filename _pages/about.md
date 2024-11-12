@@ -37,24 +37,27 @@ He received his Ph.D. from the Hong Kong University of Science and Technology in
 
 
 
-I am hiring interns who can work in Shanghai for over three months. Relevant topics include:
+There are multiple openings of Researchers/Research Engineers/Interns in the following areas:
 
 - Vision-language models and multimodal integration
 - Model fine-tuning, compression, and acceleration
 - Device-edge-cloud collaborative inference
-- Security/Privacy issues in generative models and edge AI systems
 
 <!--
 - 3D scene representation and volumetric video streaming
 - 3D scene representation and volumetric video streaming
 -  Multimodal large language models and device-edge-cloud collaborative inference **(High priority)**
-
+- Security/Privacy issues in generative models and edge AI systems
 
 For PhD candidates, please find more details [here](https://mp.weixin.qq.com/s/vUyOTLywdUNlLGk1ZvUpWA) and contact me by email.
 
+Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
+
 -->
 
-For intern positions, please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email. Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
+If you are interested in joining TeleAI, please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email.
+
+
 
 
 
