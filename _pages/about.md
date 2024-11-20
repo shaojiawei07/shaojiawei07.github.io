@@ -27,7 +27,9 @@ I am currently a Postdoc Fellow with the Department of Electronic and Computer E
 
 Dr. Jiawei Shao is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai, under the direction of [Prof. Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). 
 
-He is a **Principal Investigator (PI)** and leads the **AI Flow Group**, working on a wide range of topics including **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**. 
+He is a **Principal Investigator (PI)** and leads the **AI Flow Group**, working on a wide range of topics including **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**. The position paper "AI Flow at the Network Edge" is available at [[Preprint]](https://arxiv.org/abs/2411.12469).
+
+
 
 He received his Ph.D. from the Hong Kong University of Science and Technology in 2024, under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before that, he received his B.Eng. from Beijing University of Posts and Telecommunications in 2019.
 
@@ -92,6 +94,8 @@ I ...
 - [Apr., 2022] One paper on coded computing and federated learning is accepted to ISIT 2022:  -->
 
 # News
+
+- **[Nov. 2024]** Our paper "AI Flow at the Network Edge" was submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
 - **[Oct. 2024]** Our paper "EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings" was submitted. [[Preprint]](https://arxiv.org/abs/2410.01425)[[Project Page]](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)
 - **[Jul. 2024]** Our paper "Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model" was accepted to ECCV 2024. [[Paper]](https://arxiv.org/abs/2407.10632)
 - **[Jun. 2024]** Our paper "Graph Neural Network Enhanced Retrieval for Question Answering of LLMs" was submitted. [[Preprint]](https://arxiv.org/abs/2406.06572)
