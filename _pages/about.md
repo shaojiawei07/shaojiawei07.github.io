@@ -148,6 +148,8 @@ I ...
 - Z. Li, Q. Guo, **J. Shao**, L. Song, J. Bian, J. Zhang, R. Wang, "Graph Neural Network Enhanced Retrieval for Question Answering of LLMs," submitted. [[Preprint]](https://arxiv.org/abs/2406.06572)
 - Y. Hu, Z. Liu, **J. Shao**, Z. Lin, J. Zhang, "EVA-Gaussian: 3D Gaussian-Based Real-time Human Novel View Synthesis Under Diverse Camera Settings," submitted. [[Preprint]](https://arxiv.org/abs/2410.01425)[[Project Page]](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)
 
+- **J. Shao**, X. Li, "AI Flow at the Network Edge," submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
+
 
 
 
