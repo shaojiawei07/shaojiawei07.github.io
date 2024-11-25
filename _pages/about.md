@@ -96,6 +96,7 @@ I ...
 # News
 
 - **[Nov. 2024]** Our paper "AI Flow at the Network Edge" was submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
+- **[Nov. 2024]** Our paper "Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction" was submitted. [[Preprint]](https://arxiv.org/abs/2411.14847)[[Project Page]](https://www.liuzhening.top/DASS)[[Video]](https://www.youtube.com/watch?v=4ZUTpI6WRdQ)
 - **[Oct. 2024]** Our paper "EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings" was submitted. [[Preprint]](https://arxiv.org/abs/2410.01425)[[Project Page]](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)
 - **[Jul. 2024]** Our paper "Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model" was accepted to ECCV 2024. [[Paper]](https://arxiv.org/abs/2407.10632)
 - **[Jun. 2024]** Our paper "Graph Neural Network Enhanced Retrieval for Question Answering of LLMs" was submitted. [[Preprint]](https://arxiv.org/abs/2406.06572)
@@ -147,7 +148,7 @@ I ...
 - **J. Shao**\*, Z. Li\*, W. Sun\*, T. Zhou, Y. Sun, L. Liu, Z. Lin, and J. Zhang, "A Survey of What to Share in Federated Learning: perspectives on model utility, privacy leakage, and communication efficiency," submitted. [[Preprint]](https://arxiv.org/abs/2307.10655) (\*equal contribution with [Zijian Li](https://scholar.google.com/citations?user=ocn7vOMAAAAJ&hl=en) and [Wenqiang Sun](https://github.com/wenqsun))
 - Z. Li, Q. Guo, **J. Shao**, L. Song, J. Bian, J. Zhang, R. Wang, "Graph Neural Network Enhanced Retrieval for Question Answering of LLMs," submitted. [[Preprint]](https://arxiv.org/abs/2406.06572)
 - Y. Hu, Z. Liu, **J. Shao**, Z. Lin, J. Zhang, "EVA-Gaussian: 3D Gaussian-Based Real-time Human Novel View Synthesis Under Diverse Camera Settings," submitted. [[Preprint]](https://arxiv.org/abs/2410.01425)[[Project Page]](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)
-
+- Z. Liu, Y. Hu, X. Zhang, **J. Shao**, Z. Lin, J. Zhang, "Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction," submitted. [[Preprint]](https://arxiv.org/abs/2411.14847)
 - **J. Shao**, X. Li, "AI Flow at the Network Edge," submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
 
 
