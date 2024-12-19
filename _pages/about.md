@@ -95,6 +95,8 @@ I ...
 
 # News
 
+
+- **[Dec. 2024]** Our paper "CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression" was accepted to AAAI 2025. [[Preprint]](https://arxiv.org/abs/2403.08505)
 - **[Nov. 2024]** Our paper "AI Flow at the Network Edge" was submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
 - **[Nov. 2024]** Our paper "Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction" was submitted. [[Preprint]](https://arxiv.org/abs/2411.14847)[[Project Page]](https://www.liuzhening.top/DASS)[[Video]](https://www.youtube.com/watch?v=4ZUTpI6WRdQ)
 - **[Oct. 2024]** Our paper "EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings" was submitted. [[Preprint]](https://arxiv.org/abs/2410.01425)[[Project Page]](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)
@@ -117,6 +119,7 @@ I ...
 
 <!-- 
 **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2023/689100c537/1PTNbxbOwdq)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
+20 September 2023
  -->
 
 
@@ -125,9 +128,8 @@ I ...
 
 # Selected publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en)
 
-
 - Edge AI, task-oriented communication:
-	- **J. Shao**, X. Zhang, and J. Zhang, "Task-oriented communication for edge video analytics," *IEEE Trans. Wireless Commun.*, to appear. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
+	- **J. Shao**, X. Zhang, and J. Zhang, "Task-oriented communication for edge video analytics," *IEEE Trans. Wireless Commun.*, vol. 23, no. 5, pp. 4141-4154, May 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Task-oriented communication for multi-device cooperative edge inference," *IEEE Trans. Wireless Commun.*, vol. 11, no. 1, pp. 73-87, Jan. 2023. [[Paper]](https://ieeexplore.ieee.org/document/9837474)[[Code]](https://github.com/shaojiawei07/VDDIB-SR)
 	- **J. Shao**, Y. Mao, and J. Zhang, "Learning task-oriented communication for edge inference: An information bottleneck approach," *IEEE J. Select. Areas Commun*, vol. 40, no. 1, pp. 197-211, Jan. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9606667)[[Code]](https://github.com/shaojiawei07/VL-VFE)
 	- **J. Shao**, J. Zhang, "Communication-computation trade-off in resource-constrained edge inference," *IEEE Commun. Mag.*, vol. 58, no. 12, pp. 20–26, Dec. 2020. [[Paper]](https://ieeexplore.ieee.org/document/9311935)[[Code]](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)
