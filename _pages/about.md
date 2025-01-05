@@ -25,9 +25,9 @@ I am currently a Postdoc Fellow with the Department of Electronic and Computer E
 -->
 
 
-Dr. Jiawei Shao is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai, under the direction of [Prof. Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). 
+Dr. Jiawei Shao （邵嘉伟） is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai, under the direction of [Prof. Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). 
 
-He is a **Principal Investigator (PI)** and leads the **AI Flow Group**, working on a wide range of topics including **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**. The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is available at [[Preprint]](https://arxiv.org/abs/2411.12469).
+He is a **Principal Investigator (PI)** and leads the **AI Flow Group**, working on a wide range of topics including **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**. The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is available at [[Preprint]](https://arxiv.org/abs/2411.12469). 智传网中文宣传材料 [[上海市“人工智能+”行动推进大会]](https://mp.weixin.qq.com/s/EKdTB9DKWjt6U37yBGTw9A) [[TeleAI 开发者大会]](https://mp.weixin.qq.com/s/QTp9VNSGKkmC_v7KvTS1tQ)
 
 
 
@@ -38,14 +38,18 @@ He received his Ph.D. from the Hong Kong University of Science and Technology in
 # <span style="color:blue"> Openings </span>
 
 
+团队招聘研究员、研发工程师、实习生，联系邮箱 shaojw2@chinatelecom.cn（并抄送jiawei.shao@connect.ust.hk）。
 
 There are multiple openings of Researchers/Research Engineers/Interns in the following areas:
 
-- Vision-language models and multimodal integration
+- Edge AI, edge inference, and edge computing
 - Model fine-tuning, compression, and acceleration
-- Device-edge-cloud collaborative inference
+- Vision-language models and multimodal integration
+
 
 <!--
+- Device-edge-cloud collaborative inference
+- Edge computing and edge artificial intelligence
 - 3D scene representation and volumetric video streaming
 - 3D scene representation and volumetric video streaming
 -  Multimodal large language models and device-edge-cloud collaborative inference **(High priority)**
@@ -55,9 +59,14 @@ For PhD candidates, please find more details [here](https://mp.weixin.qq.com/s/v
 
 Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
 
+TeleAI.HR@ChinaTelecom.cn and CC me on the email.
+
 -->
 
-If you are interested in joining TeleAI, please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email.
+If you are interested in joining TeleAI, please send your CV to shaojw2@chinatelecom.cn and jiawei.shao@connect.ust.hk.
+
+
+
 
 
 
