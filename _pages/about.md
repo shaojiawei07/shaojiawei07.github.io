@@ -46,6 +46,8 @@ There are multiple openings of Researchers/Research Engineers/Interns in the fol
 - Model fine-tuning, compression, and acceleration
 - Vision-language models and multimodal integration
 
+If you are interested in joining TeleAI, please send your CV to shaojw2@chinatelecom.cn and jiawei.shao@connect.ust.hk.
+
 
 <!--
 - Device-edge-cloud collaborative inference
@@ -63,7 +65,6 @@ TeleAI.HR@ChinaTelecom.cn and CC me on the email.
 
 -->
 
-If you are interested in joining TeleAI, please send your CV to shaojw2@chinatelecom.cn and jiawei.shao@connect.ust.hk.
 
 
 
@@ -79,15 +80,15 @@ If you are interested in joining TeleAI, please send your CV to shaojw2@chinatel
 
 
 
-
-# Research interests
-- **Edge AI**: Device-Edge Cooperative Inference, Neural Data Compression.
-- **Generative AI**: Multimodal Large Language Models, Gaussian Splatting, Intelligent Agents.
-- **Trustworthy AI**: Federated Learning, Differential Privacy, Jailbreak Attacks.
-
 <!--	- I spent three months at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) since Jan. 2023. -->
 
 <!-- particularly in
+
+Research interests
+**Edge AI**: Device-Edge Cooperative Inference, Neural Data Compression.
+**Generative AI**: Multimodal Large Language Models, Gaussian Splatting, Intelligent Agents.
+**Trustworthy AI**: Federated Learning, Differential Privacy, Jailbreak Attacks.
+
 
 including edge AI, task-oriented communication,
  -->
@@ -125,17 +126,19 @@ I ...
 - **[Jul. 2023]** Manuscript "A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency" was submitted. [[Preprint]](https://arxiv.org/abs/2307.10655)
 - **[Jun. 2023]** I received the HKUST RedBird Academic Excellence Award in the 2022-23 Academic Year.
 
+## For more publications, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en).
+
 
 <!-- 
 **[Apr. 2023]** Our paper "Low-complexity deep video compression with a distributed coding architecture" was accepted to ICME 2023. [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2023/689100c537/1PTNbxbOwdq)[[Code]](https://github.com/Xinjie-Q/Distributed-DVC)
 20 September 2023
- -->
 
 
 
 
+<!-- 
 
-# Selected publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en)
+# Selected publications [Google Scholar Profile](https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en)
 
 - Edge AI, task-oriented communication:
 	- **J. Shao**, X. Zhang, and J. Zhang, "Task-oriented communication for edge video analytics," *IEEE Trans. Wireless Commun.*, vol. 23, no. 5, pp. 4141-4154, May 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258036)[[Code]](https://github.com/shaojiawei07/TOCOM-TEM)
@@ -162,7 +165,7 @@ I ...
 - Z. Liu, Y. Hu, X. Zhang, **J. Shao**, Z. Lin, J. Zhang, "Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction," submitted. [[Preprint]](https://arxiv.org/abs/2411.14847)
 - **J. Shao**, X. Li, "AI Flow at the Network Edge," submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
 
-
+-->
 
 
 
