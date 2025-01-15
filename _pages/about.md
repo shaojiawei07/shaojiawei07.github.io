@@ -45,6 +45,7 @@ There are multiple openings of Researchers/Research Engineers/Interns in the fol
 - Edge AI, edge inference, and edge computing
 - Model fine-tuning, compression, and acceleration
 - Vision-language models and multimodal integration
+- Privacy-preserving federated learning for large models
 
 If you are interested in joining TeleAI, please send your CV to shaojw2@chinatelecom.cn and jiawei.shao@connect.ust.hk.
 
