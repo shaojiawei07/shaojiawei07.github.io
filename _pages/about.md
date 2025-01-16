@@ -106,7 +106,7 @@ I ...
 
 # News
 
-
+- **[Jan. 2025]** Our paper "Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck" was accepted to IEEE JSAC. [[Preprint]](https://arxiv.org/abs/2405.09514)
 - **[Dec. 2024]** Our paper "CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression" was accepted to AAAI 2025. [[Preprint]](https://arxiv.org/abs/2403.08505)
 - **[Nov. 2024]** Our paper "AI Flow at the Network Edge" was submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
 - **[Nov. 2024]** Our paper "Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction" was submitted. [[Preprint]](https://arxiv.org/abs/2411.14847)[[Project Page]](https://www.liuzhening.top/DASS)[[Video]](https://www.youtube.com/watch?v=4ZUTpI6WRdQ)
