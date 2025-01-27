@@ -25,7 +25,7 @@ I am currently a Postdoc Fellow with the Department of Electronic and Computer E
 -->
 
 
-Dr. Jiawei Shao （邵嘉伟） is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai, under the direction of [Prof. Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). 
+Dr. Jiawei Shao （邵嘉伟） is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai, under the direction of [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
 
 He is a **Principal Investigator (PI)** and leads the **AI Flow Group**, working on a wide range of topics including **multimodal generative models**, **edge artificial intelligence**, and **communication network systems**. The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is available at [[Preprint]](https://arxiv.org/abs/2411.12469). 智传网中文宣传材料 [[上海市“人工智能+”行动推进大会]](https://mp.weixin.qq.com/s/EKdTB9DKWjt6U37yBGTw9A) [[TeleAI 开发者大会]](https://mp.weixin.qq.com/s/QTp9VNSGKkmC_v7KvTS1tQ)
 
@@ -106,6 +106,7 @@ I ...
 
 # News
 
+- **[Jan. 2025]** Our paper "Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models" was accepted to 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics [[Preprint]](https://arxiv.org/abs/2406.06572)
 - **[Jan. 2025]** Our paper "Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck" was accepted to IEEE JSAC. [[Preprint]](https://arxiv.org/abs/2405.09514)
 - **[Dec. 2024]** Our paper "CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression" was accepted to AAAI 2025. [[Preprint]](https://arxiv.org/abs/2403.08505)
 - **[Nov. 2024]** Our paper "AI Flow at the Network Edge" was submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
