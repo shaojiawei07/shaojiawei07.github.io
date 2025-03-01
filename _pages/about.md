@@ -27,7 +27,7 @@ I am currently a Postdoc Fellow with the Department of Electronic and Computer E
 
 Dr. Jiawei Shao （邵嘉伟） is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai, under the direction of [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
 
-He is a **Principal Investigator (PI)** and leads the **AI Flow Group**, working on a wide range of topics including **large multimodal models**, **edge artificial intelligence**, and **communication network systems**. The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is available at [[Preprint]](https://arxiv.org/abs/2411.12469). 智传网中文宣传材料 [[上海市“人工智能+”行动推进大会]](https://mp.weixin.qq.com/s/EKdTB9DKWjt6U37yBGTw9A) [[TeleAI 开发者大会]](https://mp.weixin.qq.com/s/QTp9VNSGKkmC_v7KvTS1tQ)
+He is a **Principal Investigator (PI)** and leads the **AI Flow Group**（前沿交叉研究中心——智传网方向）, working on a wide range of topics including **large multimodal models**, **edge artificial intelligence**, and **communication network systems**. The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is available at [[Preprint]](https://arxiv.org/abs/2411.12469). 智传网中文宣传材料 [[上海市“人工智能+”行动推进大会]](https://mp.weixin.qq.com/s/EKdTB9DKWjt6U37yBGTw9A) [[TeleAI 开发者大会]](https://mp.weixin.qq.com/s/QTp9VNSGKkmC_v7KvTS1tQ)
 
 
 
