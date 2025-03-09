@@ -106,11 +106,10 @@ I ...
 - [Apr., 2022] One paper on coded computing and federated learning is accepted to ISIT 2022:  -->
 
 # News
-
+- **[Feb. 2025]** Our paper "AI Flow at the Network Edge" was accepted to IEEE Network. [[Paper]](https://ieeexplore.ieee.org/document/10884554) 首篇智传网方向的文章。
 - **[Jan. 2025]** Our paper "Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models" was accepted to 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics [[Preprint]](https://arxiv.org/abs/2406.06572)
 - **[Jan. 2025]** Our paper "Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck" was accepted to IEEE JSAC. [[Preprint]](https://arxiv.org/abs/2405.09514)
 - **[Dec. 2024]** Our paper "CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression" was accepted to AAAI 2025. [[Preprint]](https://arxiv.org/abs/2403.08505)
-- **[Nov. 2024]** Our paper "AI Flow at the Network Edge" was submitted. [[Preprint]](https://arxiv.org/abs/2411.12469)
 - **[Nov. 2024]** Our paper "Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction" was submitted. [[Preprint]](https://arxiv.org/abs/2411.14847)[[Project Page]](https://www.liuzhening.top/DASS)[[Video]](https://www.youtube.com/watch?v=4ZUTpI6WRdQ)
 - **[Oct. 2024]** Our paper "EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings" was submitted. [[Preprint]](https://arxiv.org/abs/2410.01425)[[Project Page]](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)
 - **[Jul. 2024]** Our paper "Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model" was accepted to ECCV 2024. [[Paper]](https://arxiv.org/abs/2407.10632)
