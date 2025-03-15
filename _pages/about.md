@@ -107,6 +107,7 @@ I ...
 
 # News
 - **[Mar. 2025]** Our paper "VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers" was submitted, with significant contributions from our intern [Ruanjun Li](https://acm.shanghaitech.edu.cn/user/1113). [[Preprint]](https://www.arxiv.org/abs/2503.09387)
+- **[Mar. 2025]** Our paper "KV-Edit: Training-Free Image Editing for Precise Background Preservation" was submitted, with significant contributions from our intern [Tianrui Zhu](https://scholar.google.com/citations?hl=en&user=QP3tVTEAAAAJ). [[Preprint]](https://arxiv.org/pdf/2502.17363)
 - **[Feb. 2025]** Our paper "AI Flow at the Network Edge" was accepted to IEEE Network. [[Paper]](https://ieeexplore.ieee.org/document/10884554) 首篇智传网方向的文章。
 - **[Jan. 2025]** Our paper "Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models" was accepted to 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics [[Preprint]](https://arxiv.org/abs/2406.06572)
 - **[Jan. 2025]** Our paper "Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck" was accepted to IEEE JSAC. [[Preprint]](https://arxiv.org/abs/2405.09514)
