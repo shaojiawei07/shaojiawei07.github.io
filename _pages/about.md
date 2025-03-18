@@ -106,6 +106,7 @@ I ...
 - [Apr., 2022] One paper on coded computing and federated learning is accepted to ISIT 2022:  -->
 
 # News
+- **[Mar. 2025]** Our paper "Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference" was submitted, with significant contributions from our intern [Cheng Yuan](https://ieeexplore.ieee.org/author/796284470134892). [[Preprint]](https://arxiv.org/pdf/2503.12926)
 - **[Mar. 2025]** Our paper "VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers" was submitted, with significant contributions from our intern [Ruanjun Li](https://acm.shanghaitech.edu.cn/user/1113). [[Preprint]](https://www.arxiv.org/abs/2503.09387)
 - **[Mar. 2025]** Our paper "KV-Edit: Training-Free Image Editing for Precise Background Preservation" was submitted, with significant contributions from our intern [Tianrui Zhu](https://scholar.google.com/citations?hl=en&user=QP3tVTEAAAAJ). [[Preprint]](https://arxiv.org/pdf/2502.17363)
 - **[Feb. 2025]** Our paper "AI Flow at the Network Edge" was accepted to IEEE Network. [[Paper]](https://ieeexplore.ieee.org/document/10884554) 首篇智传网方向的文章。
