@@ -27,12 +27,11 @@ I am currently a Postdoc Fellow with the Department of Electronic and Computer E
 
 Dr. Jiawei Shao （邵嘉伟） is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai, under the direction of [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
 
-He is a **Principal Investigator (PI)** and leads the **AI Flow Group**（前沿交叉研究中心——智传网方向）, working on a wide range of topics including **large multimodal models**, **edge artificial intelligence**, and **communication network systems**. The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is available at [[Preprint]](https://arxiv.org/abs/2411.12469). 智传网中文宣传材料 [[上海市“人工智能+”行动推进大会]](https://mp.weixin.qq.com/s/EKdTB9DKWjt6U37yBGTw9A) [[TeleAI 开发者大会]](https://mp.weixin.qq.com/s/QTp9VNSGKkmC_v7KvTS1tQ)
+He is a **Principal Investigator (PI)** and leads the **AI Flow Group**（前沿交叉研究中心——智传网方向）, working on a wide range of topics including **large multimodal models**, **edge artificial intelligence**, and **communication network systems**. He received his Ph.D. from the Hong Kong University of Science and Technology in 2024, under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before that, he received his B.Eng. from Beijing University of Posts and Telecommunications in 2019. 
 
+The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is available at [Here](https://arxiv.org/abs/2411.12469). The technical report of AI Flow, "AI Flow: Perspectives, Scenarios, and Approaches," is available at [Here](https://www.arxiv.org/abs/2506.12479). 
 
-
-He received his Ph.D. from the Hong Kong University of Science and Technology in 2024, under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before that, he received his B.Eng. from Beijing University of Posts and Telecommunications in 2019.
-
+智传网中文宣传材料 [[国资委“走进新国企·科技创新主力军”]](https://mp.weixin.qq.com/s/AomKBRcOQ4Y2SOhPGSnMtA) [[上海市“人工智能+”行动推进大会]](https://mp.weixin.qq.com/s/EKdTB9DKWjt6U37yBGTw9A) [[TeleAI 开发者大会]](https://mp.weixin.qq.com/s/QTp9VNSGKkmC_v7KvTS1tQ)
 
 
 # <span style="color:blue"> Openings </span>
@@ -106,6 +105,8 @@ I ...
 - [Apr., 2022] One paper on coded computing and federated learning is accepted to ISIT 2022:  -->
 
 # News
+
+- **[Jun. 2025]** The technical report of AI Flow, "AI Flow: Perspectives, Scenarios, and Approaches," is available at [Here](https://www.arxiv.org/abs/2506.12479). 
 - **[Mar. 2025]** Our paper "Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference" was submitted, with significant contributions from our intern [Cheng Yuan](https://ieeexplore.ieee.org/author/796284470134892). [[Preprint]](https://arxiv.org/pdf/2503.12926)
 - **[Mar. 2025]** Our paper "VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers" was submitted, with significant contributions from our intern [Ruanjun Li](https://acm.shanghaitech.edu.cn/user/1113). [[Preprint]](https://www.arxiv.org/abs/2503.09387)
 - **[Mar. 2025]** Our paper "KV-Edit: Training-Free Image Editing for Precise Background Preservation" was submitted, with significant contributions from our intern [Tianrui Zhu](https://scholar.google.com/citations?hl=en&user=QP3tVTEAAAAJ). [[Preprint]](https://arxiv.org/pdf/2502.17363)
