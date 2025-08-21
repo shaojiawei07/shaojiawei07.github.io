@@ -107,7 +107,6 @@ I ...
 # News
 
 - **[Aug. 2025]** I am delighted to share that I, along with [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) and [Prof. Yuyi Mao](https://sites.google.com/site/ymaoust/), have been selected recipients of the [IEEE Communications Society Katherine Johnson Young Author Best Paper Award](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-katherine-johnson-young-author-best-paper). This recognition is for our paper, “Learning Task-Oriented Communication for Edge Inference: An Information Bottleneck Approach,” IEEE Journal on Selected Areas in Communications, vol. 40, no. 1, pp. 197-211, Jan. 2022.
-
 - **[Jun. 2025]** The technical report of AI Flow, "AI Flow: Perspectives, Scenarios, and Approaches," is available at [Here](https://www.arxiv.org/abs/2506.12479). 
 - **[Mar. 2025]** Our paper "Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference" was submitted, with significant contributions from our intern [Cheng Yuan](https://ieeexplore.ieee.org/author/796284470134892). [[Preprint]](https://arxiv.org/pdf/2503.12926)
 - **[Mar. 2025]** Our paper "VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers" was submitted, with significant contributions from our intern [Ruanjun Li](https://acm.shanghaitech.edu.cn/user/1113). [[Preprint]](https://www.arxiv.org/abs/2503.09387)
