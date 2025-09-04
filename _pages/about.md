@@ -25,9 +25,9 @@ I am currently a Postdoc Fellow with the Department of Electronic and Computer E
 -->
 
 
-Dr. Jiawei Shao （邵嘉伟） is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), Shanghai, under the direction of [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en). 
+Dr. Jiawei Shao （邵嘉伟） is a **Research Scientist** at [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://mp.weixin.qq.com/s/CuMnVZbUJIyXq9DrH3JGDA), under the leadership of [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en), the CTO and Chief Scientist of China Telecom.
 
-He is a **Principal Investigator (PI)** and leads the **AI Flow Group**（前沿交叉研究中心——智传网方向）, working on a wide range of topics including **large multimodal models**, **edge artificial intelligence**, and **communication network systems**. He received his Ph.D. from the Hong Kong University of Science and Technology in 2024, under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before that, he received his B.Eng. from Beijing University of Posts and Telecommunications in 2019. 
+He is a **Principal Investigator (PI)** and leads the **AI Flow Group**（前沿交叉研究中心——智传网方向）, working on a wide range of topics including **large language models and multimodality**, **LLM-based agents and multi-agent systems**, **edge artificial intelligence**, and **communication network optimization**. He received his Ph.D. from the Hong Kong University of Science and Technology in 2024, under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before that, he received his B.Eng. from Beijing University of Posts and Telecommunications in 2019. 
 
 The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is available at [Here](https://arxiv.org/abs/2411.12469). The technical report of AI Flow, "AI Flow: Perspectives, Scenarios, and Approaches," is available at [Here](https://www.arxiv.org/abs/2506.12479). 
 
@@ -37,7 +37,7 @@ The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is ava
 # <span style="color:blue"> Openings </span>
 
 
-团队招聘研究员、研发工程师、实习生，联系邮箱 shaojw2@chinatelecom.cn（并抄送jiawei.shao@connect.ust.hk）。
+团队招聘研究员、研发工程师、实习生，联系邮箱 shaojw2@chinatelecom.cn。
 
 There are multiple openings of Researchers/Research Engineers/Interns in the following areas:
 
@@ -47,8 +47,7 @@ There are multiple openings of Researchers/Research Engineers/Interns in the fol
 - Privacy-preserving federated learning for large models
 - LLM-based autonomous agents and multi-agent system
 
-If you are interested in joining TeleAI, please send your CV to shaojw2@chinatelecom.cn and jiawei.shao@connect.ust.hk.
-
+If you are interested in joining TeleAI, please send your CV to shaojw2@chinatelecom.cn.
 
 <!--
 - Device-edge-cloud collaborative inference
