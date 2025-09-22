@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!--	- I closely collaborated with [Dr. Yifei Shen](https://www.microsoft.com/en-us/research/people/yifeishen/), [Dr. Yuyi Mao](https://sites.google.com/site/ymaoust), and [Prof. Songze Li](https://songzli.github.io/). 
@@ -105,6 +105,8 @@ I ...
 
 # News
 
+- **[Sep. 2025]** I have been selected for inclusion in the [World's Top 2% Scientists list](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8) for single-year impact in 2024 (released by Stanford University and Elsevier).
+- **[Sep. 2025]** Our paper "CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs" was accepted to NeurIPS.
 - **[Aug. 2025]** I am delighted to share that I, along with [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) and [Prof. Yuyi Mao](https://sites.google.com/site/ymaoust/), have been selected recipients of the [IEEE Communications Society Katherine Johnson Young Author Best Paper Award](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-katherine-johnson-young-author-best-paper). This recognition is for our paper, “Learning Task-Oriented Communication for Edge Inference: An Information Bottleneck Approach,” IEEE Journal on Selected Areas in Communications, vol. 40, no. 1, pp. 197-211, Jan. 2022.
 - **[Jun. 2025]** The technical report of AI Flow, "AI Flow: Perspectives, Scenarios, and Approaches," is available at [Here](https://www.arxiv.org/abs/2506.12479). 
 - **[Mar. 2025]** Our paper "Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference" was submitted, with significant contributions from our intern [Cheng Yuan](https://ieeexplore.ieee.org/author/796284470134892). [[Preprint]](https://arxiv.org/pdf/2503.12926)
