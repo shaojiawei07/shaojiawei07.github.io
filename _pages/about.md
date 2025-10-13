@@ -33,23 +33,24 @@ The position paper of AI Flow (智传网), "AI Flow at the Network Edge," is ava
 
 智传网中文宣传材料 [[国资委“走进新国企·科技创新主力军”]](https://mp.weixin.qq.com/s/AomKBRcOQ4Y2SOhPGSnMtA) [[上海市“人工智能+”行动推进大会]](https://mp.weixin.qq.com/s/EKdTB9DKWjt6U37yBGTw9A) [[TeleAI 开发者大会]](https://mp.weixin.qq.com/s/QTp9VNSGKkmC_v7KvTS1tQ)
 
-
-# <span style="color:blue"> Openings </span>
-
+# Openings
 
 团队招聘研究员、研发工程师、实习生，联系邮箱 shaojw2@chinatelecom.cn。
 
-There are multiple openings of Researchers/Research Engineers/Interns in the following areas:
+There are multiple openings of Researchers/Research Engineers/Interns. If you are interested in joining TeleAI, please send your CV to shaojw2@chinatelecom.cn.
+
+
+<!--
+
+# <span style="color:blue"> Openings </span>
+
+ in the following areas:
 
 - Edge AI, edge inference, and edge computing
 - Model fine-tuning, compression, and acceleration
 - Vision-language models and multimodal integration
 - Privacy-preserving federated learning for large models
 - LLM-based autonomous agents and multi-agent system
-
-If you are interested in joining TeleAI, please send your CV to shaojw2@chinatelecom.cn.
-
-<!--
 - Device-edge-cloud collaborative inference
 - Edge computing and edge artificial intelligence
 - 3D scene representation and volumetric video streaming
@@ -64,15 +65,6 @@ Kindly mark the subject with _[the topic you are interested in]_. More details a
 TeleAI.HR@ChinaTelecom.cn and CC me on the email.
 
 -->
-
-
-
-
-
-
-
-
-
 
 <!--
 <span style="color:red"> Please send your CV to TeleAI.HR@ChinaTelecom.cn and CC me on the email.</span> Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ) and 
