@@ -41,7 +41,6 @@ There are multiple openings of Researchers/Research Engineers/Interns. If you ar
 
 
 <!--
-
 # <span style="color:blue"> Openings </span>
 
  in the following areas:
@@ -63,7 +62,6 @@ For PhD candidates, please find more details [here](https://mp.weixin.qq.com/s/v
 Kindly mark the subject with _[the topic you are interested in]_. More details are available [here](https://mp.weixin.qq.com/s/w9taJWYHoBJZZ228BJQZUQ).
 
 TeleAI.HR@ChinaTelecom.cn and CC me on the email.
-
 -->
 
 <!--
@@ -96,12 +94,11 @@ I ...
 - [Apr., 2022] One paper on coded computing and federated learning is accepted to ISIT 2022:  -->
 
 # News
-
+- **[Oct. 2025]** Our paper "Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference" was accepted to IEEE Transactions on Mobile Computing, with significant contributions from our group member [Cheng Yuan](https://ieeexplore.ieee.org/author/796284470134892). [[Preprint]](https://arxiv.org/pdf/2503.12926)
 - **[Sep. 2025]** I have been selected for inclusion in the [World's Top 2% Scientists list](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8) for single-year impact in 2024 (released by Stanford University and Elsevier).
 - **[Sep. 2025]** Our paper "CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs" was accepted to NeurIPS.
 - **[Aug. 2025]** I am delighted to share that I, along with [Prof. Jun Zhang](https://eejzhang.people.ust.hk/) and [Prof. Yuyi Mao](https://sites.google.com/site/ymaoust/), have been selected recipients of the [IEEE Communications Society Katherine Johnson Young Author Best Paper Award](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-katherine-johnson-young-author-best-paper). This recognition is for our paper, “Learning Task-Oriented Communication for Edge Inference: An Information Bottleneck Approach,” IEEE Journal on Selected Areas in Communications, vol. 40, no. 1, pp. 197-211, Jan. 2022.
 - **[Jun. 2025]** The technical report of AI Flow, "AI Flow: Perspectives, Scenarios, and Approaches," is available at [Here](https://www.arxiv.org/abs/2506.12479). 
-- **[Mar. 2025]** Our paper "Task-Oriented Feature Compression for Multimodal Understanding via Device-Edge Co-Inference" was submitted, with significant contributions from our intern [Cheng Yuan](https://ieeexplore.ieee.org/author/796284470134892). [[Preprint]](https://arxiv.org/pdf/2503.12926)
 - **[Mar. 2025]** Our paper "VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers" was submitted, with significant contributions from our intern [Ruanjun Li](https://acm.shanghaitech.edu.cn/user/1113). [[Preprint]](https://www.arxiv.org/abs/2503.09387)
 - **[Mar. 2025]** Our paper "KV-Edit: Training-Free Image Editing for Precise Background Preservation" was submitted, with significant contributions from our intern [Tianrui Zhu](https://scholar.google.com/citations?hl=en&user=QP3tVTEAAAAJ). [[Preprint]](https://arxiv.org/pdf/2502.17363)
 - **[Feb. 2025]** Our paper "AI Flow at the Network Edge" was accepted to IEEE Network. [[Paper]](https://ieeexplore.ieee.org/document/10884554) 首篇智传网方向的文章。
