@@ -18,6 +18,7 @@ author_profile: false
 * IEEE Communications Letters
 * IEEE Wireless Communications Letters
 * IEEE Internet of Things Journal
+* IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Cognitive Communications and Networking
 * IEEE Transactions on Green Communications and Networking
 * IEEE Transactions on Machine Learning in Communications and Networking
@@ -32,6 +33,7 @@ author_profile: false
 * International Conference on Learning Representations (ICLR)
 * Conference on Neural Information Processing Systems (NeurIPS)
 * Association for the Advancement of Artificial Intelligence Conference (AAAI)
+* Annual Meeting of the Association for Computational Linguistics (ACL)
 * Conference on Machine Learning and Systems (MLSys)
 * IEEE Global Communications Conference (GLOBECOM)
 * IEEE International Conference on Communications (ICC)
