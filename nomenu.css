@@ -1,0 +1,17 @@
+/* not show close and open button */
+
+@media screen and (max-width: 1200px) {
+    .openbtn {
+	  font-size: 0;
+	  cursor: pointer;
+	  background: none;
+	  color: none;
+	  padding: 0;
+	  border: none;
+	  width: 0;
+	}
+
+	.openbtn:hover {
+		background-color: none;
+	}
+}

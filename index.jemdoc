@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}
+
+= Jiawei Shao 邵嘉伟
+
+~~~
+== Openings 
++We are looking for self-motivated postgraduate students, undergraduate students, and postdoctoral fellows to join our research on large AI models, with a particular focus on edge AI applications.+
+
++Our goal is to bring large-model intelligence to low-end devices at the network edge, making AI services more accessible, fast, and privacy-preserving. Key research directions are as follows:+
+- +Compressing large models and accelerating inference to reduce computational overhead;+
+- +Enabling collaborative inference across user devices and cloud servers to balance computational overhead and bandwidth consumption;+
+- +Leveraging generative models for data compression to reduce bandwidth consumption;+
+- +Optimizing large models for personalized downstream tasks, such as agent-based applications;+
+- +Enhancing privacy protection for user data during large model inference.+
+
++If you are interested in joining our group, please send your CV, transcripts, rankings, and representative publications (if any) to [jiawei.shao@nwpu.edu.cn jiawei.shao@nwpu.edu.cn], with a copy to [jiawei.shao@connect.ust.hk jiawei.shao@connect.ust.hk].+
+
++We maintain a long-standing collaboration with the [https://mp.weixin.qq.com/s/vQkF7GH5mLHtdRq19MYrxg Institute of Artificial Intelligence (TeleAI), China Telecom]. Outstanding students may be recommended for internships there, with access to substantial GPU resources to support the research projects.+
+~~~
+
+
+
+== Biography
+
+Jiawei Shao is a Professor at School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University (NWPU). He has been selected as a recipient of NSFC’s Excellent Young Scientists Fund (Oversears). Before that, he has been working as a research scientist at the Institute of Artificial Intelligence (TeleAI), China Telecom, where he led the AI Flow group, under the direction of [http://xuelongli.cn/ Prof. Xuelong Li (Chief Technology Officer and Chief Scientist of China Telecom, and the director of TeleAI)]. He received his Ph.D. from the Hong Kong University of Science and Technology (HKUST), under the supervision of [https://eejzhang.people.ust.hk/ Prof. Jun Zhang]. He is a recipient of several awards, including the IEEE Communications Society Katherine Johnson Young Author Best Paper Award and the HKUST SENG PhD Research Excellence Award. He is selected for inclusion in the World's Top 2% Scientists list for single-year impact. He has published more than 40 research papers in top-tier journals and conferences, including Nature Communications and Nature Machine Intelligence. For more information about the publications, please visit the [https://scholar.google.com/citations?user=p26zthIAAAAJ&hl=en Google Scholar Profile].
+
+
+
